@@ -1,4 +1,4 @@
-https://github.com/qingyao/BIO323-citation-topic-project/blob/main/README.md# BIO323 Project
+# BIO323 Project
 Our project looks at how researchers around the world are using PaxDb.
 We do this by tracking the papers that cite the database and then using topic modeling to see what those papers are about. This lets us find out, for example, whether the data is being used more in medical research, in ecology, or maybe in new computational methods — and how those trends have changed over the years.
 By looking at these patterns, we get a clearer picture of the database’s real-world impact. But more importantly, it helps us understand what the community needs and direct our future updates to support that field.
