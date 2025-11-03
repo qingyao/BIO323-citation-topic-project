@@ -1,0 +1,2387 @@
+1. Mol Cell Proteomics. 2023 Oct;22(10):100640. doi: 10.1016/j.mcpro.2023.100640. 
+Epub 2023 Aug 31.
+
+PaxDb 5.0: Curated Protein Quantification Data Suggests Adaptive Proteome 
+Changes in Yeasts.
+
+Huang Q(1), Szklarczyk D(1), Wang M(1), Simonovic M(1), von Mering C(2).
+
+Author information:
+(1)Department of Molecular Life Sciences and Swiss Institute of Bioinformatics, 
+University of Zurich, Zurich, Switzerland.
+(2)Department of Molecular Life Sciences and Swiss Institute of Bioinformatics, 
+University of Zurich, Zurich, Switzerland. Electronic address: 
+mering@mls.uzh.ch.
+
+The "Protein Abundances Across Organisms" database (PaxDb) is an integrative 
+metaresource dedicated to protein abundance levels, in tissue-specific or 
+whole-organism proteomes. PaxDb focuses on computing best-estimate abundances 
+for proteins in normal/healthy contexts and expresses abundance values for each 
+protein in "parts per million" in relation to all other protein molecules in the 
+cell. The uniform data reprocessing, quality scoring, and integrated orthology 
+relations have made PaxDb one of the preferred tools for comparisons between 
+individual datasets, tissues, or organisms. In describing the latest version 5.0 
+of PaxDb, we particularly emphasize the data integration from various types of 
+raw data and how we expanded the number of organisms and tissue groups as well 
+as the proteome coverage. The current collection of PaxDb includes 831 original 
+datasets from 170 species, including 22 Archaea, 81 Bacteria, and 67 Eukaryota. 
+Apart from detailing the data update, we also present a comparative analysis of 
+the human proteome subset of PaxDb against the two most widely used human 
+proteome data resources: Human Protein Atlas and Genotype-Tissue Expression. 
+Lastly, through our protein abundance data, we reveal an evolutionary trend in 
+the usage of sulfur-containing amino acids in the proteomes of Fungi.
+
+Copyright © 2023 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.mcpro.2023.100640
+PMCID: PMC10551891
+PMID: 37659604
+
+Conflict of interest statement: Conflict of interest The authors declare no 
+competing interests.
+
+
+2. Mol Cell Proteomics. 2025 Mar;24(3):100917. doi: 10.1016/j.mcpro.2025.100917. 
+Epub 2025 Jan 27.
+
+Proteomic Diversity in Bacteria: Insights and Implications for Bacterial 
+Identification.
+
+Abele M(1), Soleymaniniya A(2), Bayer FP(3), Lomp N(4), Doll E(5), Meng C(4), 
+Neuhaus K(6), Scherer S(5), Wenning M(7), Wantia N(8), Kuster B(9), Wilhelm 
+M(10), Ludwig C(11).
+
+Author information:
+(1)Bavarian Center for Biomolecular Mass Spectrometry (BayBioMS), TUM School of 
+Life Sciences, Technical University of Munich, Freising, Germany; Chair of 
+Proteomics and Bioanalytics, TUM School of Life Sciences, Technical University 
+of Munich, Freising, Germany.
+(2)Computational Mass Spectrometry, TUM School of Life Sciences, Technical 
+University of Munich, Freising, Germany.
+(3)Chair of Proteomics and Bioanalytics, TUM School of Life Sciences, Technical 
+University of Munich, Freising, Germany.
+(4)Bavarian Center for Biomolecular Mass Spectrometry (BayBioMS), TUM School of 
+Life Sciences, Technical University of Munich, Freising, Germany.
+(5)Research Department Molecular Life Sciences, TUM School of Life Sciences, 
+Freising, Germany.
+(6)Core Facility Microbiome, ZIEL Institute for Food & Health, Technical 
+University of Munich, Freising, Germany.
+(7)Bavarian Health and Food Safety Authority, Unit for Food Microbiology and 
+Hygiene, Oberschleißheim, Germany.
+(8)Institut für Medizinische Mikrobiologie, Immunologie und Hygiene, TUM School 
+of Medicine and Health Department Preclinical Medicine, Technical University of 
+Munich, Munich, Germany.
+(9)Bavarian Center for Biomolecular Mass Spectrometry (BayBioMS), TUM School of 
+Life Sciences, Technical University of Munich, Freising, Germany; Chair of 
+Proteomics and Bioanalytics, TUM School of Life Sciences, Technical University 
+of Munich, Freising, Germany; Munich Data Science Institute (MDSI), Technical 
+University of Munich, Garching, Germany.
+(10)Computational Mass Spectrometry, TUM School of Life Sciences, Technical 
+University of Munich, Freising, Germany; Munich Data Science Institute (MDSI), 
+Technical University of Munich, Garching, Germany.
+(11)Bavarian Center for Biomolecular Mass Spectrometry (BayBioMS), TUM School of 
+Life Sciences, Technical University of Munich, Freising, Germany. Electronic 
+address: tina.ludwig@tum.de.
+
+Mass spectrometry-based proteomics has revolutionized bacterial identification 
+and elucidated many molecular mechanisms underlying bacterial growth, community 
+formation, and drug resistance. However, most research has been focused on a few 
+model bacteria, overlooking bacterial diversity. In this study, we present the 
+most extensive bacterial proteomic resource to date, covering 303 species, 119 
+genera, and five phyla with over 636,000 unique expressed proteins, confirming 
+the existence of over 38,700 hypothetical proteins. Accessible via the public 
+resource ProteomicsDB, this dataset enables quantitative exploration of proteins 
+within and across species. Additionally, we developed MS2Bac, a bacterial 
+identification algorithm that queries NCBI's bacterial proteome space in two 
+iterations. MS2Bac achieved over 99% species-level and 89% strain-level 
+accuracy, surpassing methods like MALDI-TOF and FTIR, as demonstrated with 
+food-derived bacterial isolates. MS2Bac also effectively identified bacteria in 
+clinical samples, highlighting the potential of MS-based proteomics as a routine 
+diagnostic tool.
+
+Copyright © 2025 The Authors. Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.mcpro.2025.100917
+PMCID: PMC11919601
+PMID: 39880082 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts of Interests B. K. and M. Wi. are 
+founders and shareholders of MSAID GmbH and OmicScouts GmbH. They have no 
+operational role in either of the two companies. All other authors declare no 
+competing interests.
+
+
+3. bioRxiv [Preprint]. 2025 May 31:2024.04.09.588716. doi: 
+10.1101/2024.04.09.588716.
+
+A Ratiometric Catalog of Protein Isoform Shifts in the Cardiac Fetal Gene 
+Program.
+
+Han Y(1)(2), Binti S(1)(2), Wennersten SA(1)(2), Pandi B(1)(2), Ng DCM(1)(2), 
+Lau E(1)(2), Lam MPY(1)(3)(2).
+
+Author information:
+(1)Department of Medicine, University of Colorado School of Medicine, Aurora, CO 
+80045, USA.
+(2)Consortium for Fibrosis Research and Translation, University of Colorado 
+School of Medicine, Aurora, CO 80045, USA.
+(3)Department of Biochemistry and Molecular Genetics, University of Colorado 
+School of Medicine, Aurora, CO 80045, USA.
+
+Update in
+    JCI Insight. 2025 Aug 7;10(18):e184309. doi: 10.1172/jci.insight.184309.
+
+Pathological cardiac remodeling is associated with the reactivation of fetal 
+genes, yet the extent of the heart's fetal gene program and its impact on 
+proteome compositions remain incompletely understood. Here, using a new 
+proteome-wide protein ratio quantification strategy with mass spectrometry, we 
+identify pervasive isoform usage shifts in fetal and postnatal mouse hearts, 
+involving 145 pairs of highly homologous paralogs and alternative 
+splicing-derived isoform proteins. Proteome-wide ratio comparisons readily 
+rediscover hallmark fetal gene signatures in muscle contraction and glucose 
+metabolism pathways, while revealing novel isoform usage in mitochondrial and 
+gene expression proteins, including PPA1/PPA2, ANT1/ANT2, and PCBP1/PCBP2 
+switches. Paralogs with differential fetal usage tend to be evolutionarily 
+recent, consistent with functional diversification. Alternative splicing adds 
+another rich source of fetal isoform usage differences, involving PKM M1/M2, 
+GLS-1 KGA/GAC, PDLIM5 long/short, and other spliceoforms. When comparing 
+absolute protein proportions, we observe a partial reversion toward fetal gene 
+usage in pathological hearts. In summary, we present a ratiometric catalog of 
+paralogs and spliceoform pairs in the cardiac fetal gene program. More 
+generally, the results demonstrate the potential of applying the proteome-wide 
+ratio test concept to discover new regulatory modalities beyond differential 
+gene expression.
+
+DOI: 10.1101/2024.04.09.588716
+PMCID: PMC11030362
+PMID: 38645170
+
+
+4. Int J Mol Sci. 2024 Oct 17;25(20):11154. doi: 10.3390/ijms252011154.
+
+Computational Strategies for Assessing Adverse Outcome Pathways: Hepatic 
+Steatosis as a Case Study.
+
+Ortega-Vallbona R(1), Palomino-Schätzlein M(1), Tolosa L(2)(3), Benfenati E(4), 
+Ecker GF(5), Gozalbes R(1)(6), Serrano-Candelas E(1).
+
+Author information:
+(1)ProtoQSAR S.L., Calle Nicolás Copérnico 6, Parque Tecnológico de Valencia, 
+46980 Paterna, Spain.
+(2)Unidad de Hepatología Experimental, Instituto de Investigación Sanitaria La 
+Fe (IIS La Fe), Av. Fernando Abril Martorell 106, 46026 Valencia, Spain.
+(3)Biomedical Research Networking Center on Bioengineering, Biomaterials and 
+Nanomedicine (CIBER-BBN), Instituto de Salud Carlos III, C/Monforte de Lemos, 
+28029 Madrid, Spain.
+(4)Istituto di Ricerche Farmacologiche Mario Negri IRCCS, Via Mario Negri 2, 
+20156 Milan, Italy.
+(5)Department of Pharmaceutical Sciences, University of Vienna, Josef-Holaubek 
+Platz 2, 1090 Wien, Austria.
+(6)MolDrug AI Systems S.L., Olimpia Arozena Torres 45, 46108 Valencia, Spain.
+
+The evolving landscape of chemical risk assessment is increasingly focused on 
+developing tiered, mechanistically driven approaches that avoid the use of 
+animal experiments. In this context, adverse outcome pathways have gained 
+importance for evaluating various types of chemical-induced toxicity. Using 
+hepatic steatosis as a case study, this review explores the use of diverse 
+computational techniques, such as structure-activity relationship models, 
+quantitative structure-activity relationship models, read-across methods, omics 
+data analysis, and structure-based approaches to fill data gaps within adverse 
+outcome pathway networks. Emphasizing the regulatory acceptance of each 
+technique, we examine how these methodologies can be integrated to provide a 
+comprehensive understanding of chemical toxicity. This review highlights the 
+transformative impact of in silico techniques in toxicology, proposing 
+guidelines for their application in evidence gathering for developing and 
+filling data gaps in adverse outcome pathway networks. These guidelines can be 
+applied to other cases, advancing the field of toxicological risk assessment.
+
+DOI: 10.3390/ijms252011154
+PMCID: PMC11508863
+PMID: 39456937 [Indexed for MEDLINE]
+
+Conflict of interest statement: Authors Rita Ortega-Vallbona, Martina 
+Palomino-Schätzlein, Rafael Gozalbes and Eva Serrano-Candelas were employed by 
+the company ProtoQSAR S.L., author Rafael Gozalbes was employed by the company 
+MolDrug AI Systems S.L. The remaining authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest. This output reflects only the 
+authors’ view, and the European Union cannot be held responsible for any use 
+that may be made of the information contained therein.
+
+
+5. Front Immunol. 2024 Oct 4;15:1464923. doi: 10.3389/fimmu.2024.1464923. 
+eCollection 2024.
+
+Identification of Rv1133c (MetE) as a marker of Mycobacterium tuberculosis 
+replication and as a highly immunogenic antigen with potential immunodiagnostic 
+power.
+
+Iacobino A(1), Teloni R(1), Mancone C(2), Facchiano F(3), Di Giamberardino A(2), 
+Senatore C(3), Di Virgilio A(4), Lanni A(1), Giannoni F(1), Nisini R(1), 
+Mariotti S(1).
+
+Author information:
+(1)Dipartimento di Malattie Infettive, Istituto Superiore di Sanità, Roma, 
+Italy.
+(2)Dipartimento di Medicina Molecolare, Sapienza Università di Roma, Roma, 
+Italy.
+(3)Dipartimento Oncologia e Medicina Molecolare, Istituto Superiore di Sanità, 
+Roma, Italy.
+(4)Centro per la Sperimentazione ed il Benessere Animale, Istituto Superiore di 
+Sanità, Roma, Italy.
+
+The immunization of mice with the sterile culture medium supernatants of 
+Mycobacterium tuberculosis (Mtb) H37Rv permitted the production of several 
+monoclonal antibodies (mAbs) specific for secreted and/or released antigens. Two 
+mAbs bound and immunoprecipitated an 80-kDa protein that was identified by mass 
+spectrometry as Rv1133c, the methionine synthase MetE. The protein MetE is 
+ubiquitous among prokaryota and shows a significant sequence homology in many 
+bacteria. We produced both the full-length recombinant MetE and its N-terminal 
+fragment, whose sequence is more conserved among mycobacteria, to select mAbs 
+recognizing an Mtb-specific region of MetE. Finally, we produced and selected 
+eight mAbs that specifically detect the MetE protein in the supernatant and cell 
+lysate of Mtb and BCG, but not other bacteria such as non-tuberculous 
+mycobacteria (NTM), Streptococcus pneumoniae, Staphylococcus aureus, 
+Acinetobacter baumanii, or Escherichia coli. Taking advantage of our mAbs, we 
+studied (i) the vitamin B12 dependence for the synthesis of MetE in Mtb and NTM 
+and (ii) the kinetics of MetE production and secretion in supernatants during 
+the in vitro reproduced replicative, dormant, and resuscitation cycle of Mtb. 
+Our data demonstrate that dormant Mtb, which are assumed to be prevalent in 
+latent infections, as well as NTM do not produce and secrete MetE. Results 
+indicate an unexpected specificity for Mtb of our anti-MetE mAbs and encourage 
+the use of rMetE and our mAbs as tools for the immunodiagnosis of TB and its 
+stages.
+
+Copyright © 2024 Iacobino, Teloni, Mancone, Facchiano, Di Giamberardino, 
+Senatore, Di Virgilio, Lanni, Giannoni, Nisini and Mariotti.
+
+DOI: 10.3389/fimmu.2024.1464923
+PMCID: PMC11486704
+PMID: 39430745 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest.
+
+
+6. Fungal Biol Biotechnol. 2024 Nov 14;11(1):19. doi: 10.1186/s40694-024-00188-z.
+
+Filamentous fungi as emerging cell factories for the production of aromatic 
+compounds.
+
+Umashankar P(1), Nygård Y(2)(3).
+
+Author information:
+(1)Department of Life Sciences, Industrial Biotechnology, Chalmers University of 
+Technology, Gothenburg, Sweden.
+(2)Department of Life Sciences, Industrial Biotechnology, Chalmers University of 
+Technology, Gothenburg, Sweden. yvonne.nygard@chalmers.se.
+(3)VTT Technical Research Centre of Finland Ltd., Espoo, Finland. 
+yvonne.nygard@chalmers.se.
+
+Microbial production of aromatic compounds from renewable feedstocks has gained 
+increasing interest as a means towards sustainable production of chemicals. The 
+potential of filamentous fungi for production of aromatic compounds has 
+nonetheless not yet been widely exploited. Notably, many filamentous fungi can 
+naturally break down lignin and metabolize lignin-derived aromatic compounds. A 
+few examples where a fungal cell factory, often of Aspergillus spp., is used to 
+produce an aromatic compound, typically through the conversion of one compound 
+to another, have already been reported. In this review, we summarize fungal 
+biosynthesis of biotechnologically interesting aromatic compounds. The focus is 
+on compounds produced from the shikimate pathway. Biorefinery-relevant efforts 
+for valorizing residual biomass or lignin derived compounds are also discussed. 
+The advancement in engineering tools combined with the increasing amounts of 
+data supporting the discovery of new enzymes and development of new bioprocesses 
+has led to an increased range of potential production hosts and products. This 
+is expected to translate into a wider utilization of fungal cell factories for 
+production of aromatic compounds.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s40694-024-00188-z
+PMCID: PMC11566741
+PMID: 39543771
+
+Conflict of interest statement: Declarations Ethics approval and consent to 
+participate Not applicable. Consent for publication Not applicable. Competing 
+interests The authors declare no competing interests.
+
+
+7. bioRxiv [Preprint]. 2025 Mar 25:2025.03.25.645274. doi: 
+10.1101/2025.03.25.645274.
+
+The Cia1 and Cia2 subunits of the CTC mediate recognition of apo-FeS proteins 
+with a C-terminal targeting complex recognition motif.
+
+Buzuk A(1), Marquez MD(1), Ho JV(1), Liu Y(1), Wang B(1), Qi CC(1), Perlstein 
+DL(1).
+
+Author information:
+(1)Department of Chemistry, Boston University, Boston, MA USA.
+
+The cytosolic iron-sulfur cluster assembly (CIA) targeting complex is 
+responsible for maturation of cytosolic and nuclear iron-sulfur enzymes, 
+numbering >30 proteins critical for fundamental processes such as DNA 
+replication and repair. Up to 25% of these client proteins terminate in a 
+targeting complex recognition (TCR) motif. This carboxy-terminal tripeptide 
+motif recruits the CIA targeting complex (CTC) to the client so that the 
+metallocluster can be inserted. Herein, we use a combination of computational, 
+biochemical and biophysical approaches to determine that the clients bearing a 
+TCR motif docks at the interface of the Cia1 and Cia2 subunits of the CTC. Thus, 
+mutations destabilizing the Cia1-Cia2 complex also disrupt TCR-based client 
+identification by the CTC. Our study also reveals that the understudied human 
+Cia2 paralog CIAO2A, which is proposed to be a specific targeting factor for 
+iron regulatory protein 1, can recruit clients terminating in the TCR peptide. 
+These data signal that CIAO2A plays a more general role in iron-sulfur protein 
+maturation than previously appreciated. Taken together, our findings deepen our 
+understanding of the molecular basis for client recognition by the CTC that is 
+critical to understand the impact of CIA function in human health and disease.
+
+DOI: 10.1101/2025.03.25.645274
+PMCID: PMC11974842
+PMID: 40196589
+
+
+8. Nat Commun. 2024 Nov 30;15(1):10441. doi: 10.1038/s41467-024-54897-5.
+
+Paradigm of engineering recalcitrant non-model microorganism with dominant 
+metabolic pathway as a biorefinery chassis.
+
+Yan X(#)(1), Bao W(#)(1), Wu Y(1), Zhang C(2), Mao Z(3), Yuan Q(3), Hu Z(1), He 
+P(1), Peng Q(1), Hu M(1), Geng B(1), Ma H(3), Chen S(1), Fei Q(4), He Q(5), Yang 
+S(6).
+
+Author information:
+(1)State Key Laboratory of Biocatalysis and Enzyme Engineering, Environmental 
+Microbial Technology Center of Hubei Province, and School of Life Sciences, 
+Hubei University, Wuhan, China.
+(2)Xi'an Key Laboratory of C1 Compound Bioconversion Technology, School of 
+Chemical Engineering and Technology, Xi'an Jiaotong University, Xi'an, China.
+(3)Biodesign Center, Key Laboratory of Systems Microbial Biotechnology, Tianjin 
+Institute of Industrial Biotechnology, Chinese Academy of Sciences, Tianjin, 
+China.
+(4)Xi'an Key Laboratory of C1 Compound Bioconversion Technology, School of 
+Chemical Engineering and Technology, Xi'an Jiaotong University, Xi'an, China. 
+feiqiang@xjtu.edu.cn.
+(5)State Key Laboratory of Biocatalysis and Enzyme Engineering, Environmental 
+Microbial Technology Center of Hubei Province, and School of Life Sciences, 
+Hubei University, Wuhan, China. Qiaoninghe@hubu.edu.cn.
+(6)State Key Laboratory of Biocatalysis and Enzyme Engineering, Environmental 
+Microbial Technology Center of Hubei Province, and School of Life Sciences, 
+Hubei University, Wuhan, China. Shihui.Yang@hubu.edu.cn.
+(#)Contributed equally
+
+The development and implementation of microbial chassis cells have profound 
+impacts on circular economy. Non-model bacterium Zymomonas mobilis is an 
+excellent chassis owing to its extraordinary industrial characteristics. Here, 
+the genome-scale metabolic model iZM516 is improved and updated by integrating 
+enzyme constraints to simulate the dynamics of flux distribution and guide 
+pathway design. We show that the innate dominant ethanol pathway of Z. mobilis 
+restricts the titer and rate of these biochemicals. A dominant-metabolism 
+compromised intermediate-chassis (DMCI) strategy is then developed through 
+introducing low toxicity but cofactor imbalanced 2,3-butanediol pathway, and a 
+recombinant D-lactate producer is constructed to produce more than 140.92 g/L 
+and 104.6 g/L D-lactate (yield > 0.97 g/g) from glucose and corncob residue 
+hydrolysate, respectively. Additionally, techno-economic analysis (TEA) and life 
+cycle assessment (LCA) demonstrate the commercialization feasibility and 
+greenhouse gas reduction capability of lignocellulosic D-lactate. This work thus 
+establishes a paradigm for engineering recalcitrant microorganisms as 
+biorefinery chassis.
+
+© 2024. The Author(s).
+
+DOI: 10.1038/s41467-024-54897-5
+PMCID: PMC11608335
+PMID: 39616174 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: The authors declare that 
+they have patent applications associated with this study. S.Y., X.Y., Q.H. have 
+filed two patents (CN202310246847.7 and US18401511) for protecting strains for 
+EG production. S.Y., W.B., Q.P. have filed two patents (CN202410112699.4 and 
+US18777118) for protecting strains for D-lactate production. Other authors claim 
+no competing interests.
+
+
+9. bioRxiv [Preprint]. 2024 Jun 9:2024.06.09.597909. doi: 
+10.1101/2024.06.09.597909.
+
+NCOA4 initiates ferritinophagy by binding GATE16 using two highly avid short 
+linear interaction motifs.
+
+Lee A(1), Davis JH(1)(2).
+
+Author information:
+(1)Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 
+02139.
+(2)Program in Computational and Systems Biology, Massachusetts Institute of 
+Technology, Cambridge, MA 02139.
+
+Cells carefully regulate cytosolic iron, which is a vital enzymatic cofactor, 
+yet is toxic in excess. In mammalian cells, surplus iron is sequestered in 
+ferritin cages that, in iron limiting conditions, are degraded through the 
+selective autophagy pathway ferritinophagy to liberate free iron. Prior work 
+identified the ferritinophagy receptor protein NCOA4, which links ferritin and 
+LC3/GABARAP-family member GATE16, effectively tethering ferritin to the 
+autophagic machinery. Here, we elucidate the molecular mechanism underlying this 
+interaction, discovering two short linear motifs in NCOA4 that each bind GATE16 
+with weak affinity. These binding motifs are highly avid and, in concert, 
+support high-affinity NCOA4•GATE16 complex formation. We further find the 
+minimal NCOA4383-522 fragment bearing these motifs is sufficient for 
+ferritinophagy and that both motifs are necessary for this activity. This work 
+suggests a general mechanism wherein selective autophagy receptors can 
+distinguish between the inactive soluble pools of LC3/GABARAPs and the active 
+membrane-conjugated forms that drive autophagy. Finally, we find that iron 
+decreases NCOA4383-522's affinity for GATE16, providing a plausible mechanism 
+for iron-dependent regulation of ferritinophagy.
+
+DOI: 10.1101/2024.06.09.597909
+PMCID: PMC11185777
+PMID: 38895392
+
+
+10. Evol Lett. 2024 Nov 8;9(1):137-149. doi: 10.1093/evlett/qrae061. eCollection 
+2025 Feb.
+
+Does metabolic rate influence genome-wide amino acid composition in the course 
+of animal evolution?
+
+Wang W(1), Zhang DX(1)(2).
+
+Author information:
+(1)State Key Laboratory of Integrated Management of Pest Insects and Rodents, 
+Institute of Zoology, Chinese Academy of Sciences, Beijing, China.
+(2)College of Life Sciences, University of Chinese Academy of Sciences, Beijing, 
+China.
+
+Natural selection is believed to shape amino acid usage of the proteome by 
+minimizing the energy cost of protein biosynthesis. Although this hypothesis 
+explains well the amino acid frequency (AAfrequency) difference among the 20 
+common amino acids within a given genome (species), whether it is applicable to 
+cross-species difference remains to be inspected. Here, we proposed and tested a 
+"metabolic rate hypothesis," which suggests that metabolic rate impacts 
+genome-wide AAfrequency, considering that the energy allocated to protein 
+biosynthesis is under selection pressure due to metabolic rate constraint. We 
+performed integrated phylogenetic comparative analyses on proteomic sequence and 
+metabolic rate data of 166 species covering 130 eumetazoan orders. We showed 
+that resting metabolic rate (RMR) was significantly linked to AAfrequency 
+variation across animal lineages, with a contribution comparable to or greater 
+than genomic traits such as GC content and codon usage bias. Consistent with the 
+metabolic rate hypothesis, low-energy-cost amino acids are observed to be more 
+likely at higher frequency in animal species with high (residual) metabolic 
+rate. Correlated evolution of RMR and AAfrequency was further inferred being 
+driven by adaptation. The relationship between RMR and AAfrequency varied 
+greatly among amino acids, most likely reflecting a trade-off among various 
+interacting factors. Overall, there exists no "one-size-fits-all" predictor for 
+AAfrequency, and integrated investigation of multilevel traits is indispensable 
+for a fuller understanding of AAfrequency variation and evolution in animal.
+
+© The Author(s) 2024. Published by Oxford University Press on behalf of The 
+Society for the Study of Evolution (SSE) and European Society for Evolutionary 
+Biology (ESEB).
+
+DOI: 10.1093/evlett/qrae061
+PMCID: PMC11790228
+PMID: 39906584
+
+
+11. J Pharmacokinet Pharmacodyn. 2025 Jun 12;52(4):35. doi: 
+10.1007/s10928-025-09980-9.
+
+Cross-species translational modelling of targeted therapeutic oligonucleotides 
+using physiologically based pharmacokinetics.
+
+Derbalah A(1), Stader F(2), Liu C(2), Zyla A(2), Abdulla T(2), Wu Q(2), Jamei 
+M(2), Gardner I(2), Sepp A(2).
+
+Author information:
+(1)Certara Predictive Technologies Division, Certara UK Ltd, Level 2-Acero, 1 
+Concourse Way, Sheffield, S1 2BJ, UK. Abdallah.Derbalah@Certara.com.
+(2)Certara Predictive Technologies Division, Certara UK Ltd, Level 2-Acero, 1 
+Concourse Way, Sheffield, S1 2BJ, UK.
+
+Erratum in
+    J Pharmacokinet Pharmacodyn. 2025 Jul 30;52(4):45. doi: 
+10.1007/s10928-025-09993-4.
+
+Oligonucleotide therapeutics hold promise for targeted gene silencing, yet 
+achieving optimal tissue-specific delivery remains challenging. This study 
+introduces a mechanistic whole-body physiologically based pharmacokinetic (PBPK) 
+model to predict tissue uptake dynamics of both conjugated (targeted) and 
+unconjugated oligonucleotides across species. The model incorporates two uptake 
+pathways: a non-saturable nonspecific pathway for all oligonucleotides and 
+receptor-mediated endocytosis (RME) specific to conjugated molecules. Parameters 
+for nonspecific uptake were derived from plasma and tissue concentration data of 
+unconjugated antisense oligonucleotides (ASOs) in rats, while RME parameters for 
+N-acetylgalactosamine (GalNAc)-conjugated oligonucleotides targeting the 
+asialoglycoprotein receptor (ASGPR) were obtained from literature. Model 
+validation against experimental data for conjugated and unconjugated ASOs and 
+small interfering RNAs (siRNAs) in rats and mice demonstrated good predictive 
+performance, with median predicted-to-observed AUC ratios of 0.84 (Interquartile 
+range [IQR] 0.434-1.22) in rats and 0.629 (IQR 0.3-1.6) in mice. Local 
+sensitivity analyses identified key parameters and processes influencing organ 
+uptake, including the unbound plasma fraction and receptor-mediated uptake 
+efficiency. Simulations highlighted the potential of sustained-release 
+formulations to improve targeting specificity by mitigating receptor saturation. 
+This is the first whole-body PBPK model to describe oligonucleotide 
+pharmacokinetics across species and modalities. The model provides critical 
+mechanistic insights to optimize tissue-specific delivery, guide formulation 
+strategies, and enhance therapeutic outcomes for targeted oligonucleotide 
+therapeutics.
+
+© 2025. The Author(s).
+
+DOI: 10.1007/s10928-025-09980-9
+PMCID: PMC12162790
+PMID: 40506605 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Competing interests: AD, FeS, CL, 
+AZ, TA, QU, MJ, IG, and AS are employees and maybe shareholder of Certara UK 
+Ltd. at the time of manuscript submission.
+
+
+12. Science. 2025 Mar 7;387(6738):1063-1068. doi: 10.1126/science.ads2658. Epub 2025 
+Mar 6.
+
+Macroevolutionary divergence of gene expression driven by selection on protein 
+abundance.
+
+Cope AL(#)(1)(2)(3)(4), Schraiber JG(#)(5), Pennell M(5)(6).
+
+Author information:
+(1)Department of Biological Sciences, Vanderbilt University, Nashville, TN, USA.
+(2)Department of Genetics, Rutgers University, New Brunswick, NJ, USA.
+(3)Human Genetics Institute of New Jersey, Rutgers University, New Brunswick, 
+NJ, USA.
+(4)Robert Wood Johnson Medical School, Rutgers University, New Brunswick, NJ, 
+USA.
+(5)Department of Quantitative and Computational Biology, University of Southern 
+California, Los Angeles, CA, USA.
+(6)Department of Computational Biology, Cornell University, Ithaca, CA, USA.
+(#)Contributed equally
+
+The regulation of messenger RNA (mRNA) and protein abundances is well-studied, 
+but less is known about the evolutionary processes shaping their relationship. 
+To address this, we derived a new phylogenetic model and applied it to 
+multispecies mammalian data. Our analyses reveal (i) strong stabilizing 
+selection on protein abundances over macroevolutionary time, (ii) mutations 
+affecting mRNA abundances minimally impact protein abundances, (iii) mRNA 
+abundances evolve under selection to align with protein abundances, and (iv) 
+mRNA abundances adapt faster than protein abundances owing to greater mutational 
+opportunity. These conclusions are supported by comparisons of model parameters 
+with independent functional genomic data. By decomposing mutational and 
+selective influences on mRNA-protein dynamics, our approach provides a framework 
+for discovering the evolutionary rules that drive divergence in gene expression.
+
+DOI: 10.1126/science.ads2658
+PMCID: PMC12314801
+PMID: 40048509 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests The authors declare no 
+competing interests.
+
+
+13. bioRxiv [Preprint]. 2024 Sep 26:2024.09.24.614842. doi: 
+10.1101/2024.09.24.614842.
+
+Bulk and selective autophagy cooperate to remodel a fungal proteome in response 
+to changing nutrient availability.
+
+Telusma B(1), Farre JC(2), Cui DS(1), Subramani S(2), Davis JH(1)(3).
+
+Author information:
+(1)Department of Biology, Massachusetts Institute of Technology, Cambridge, MA.
+(2)Department of Molecular Biology, School of Biological Sciences, University of 
+California, San Diego, La Jolla, CA.
+(3)Program in Computational and Systems Biology, Massachusetts Institute of 
+Technology, Cambridge, MA.
+
+Cells remodel their proteomes in response to changing environments by 
+coordinating changes in protein synthesis and degradation. In yeast, such 
+degradation involves both proteasomal and vacuolar activity, with a mixture of 
+bulk and selective autophagy delivering many of the vacuolar substrates. 
+Although these pathways are known to be generally important for such remodeling, 
+their relative contributions have not been reported on a proteome-wide basis. To 
+assess this, we developed a method to pulse-label the methylotrophic yeast 
+Komagataella phaffii (i.e. Pichia pastoris) with isotopically labeled nutrients, 
+which, when coupled to quantitative proteomics, allowed us to globally monitor 
+protein degradation on a protein-by-protein basis following an environmental 
+perturbation. Using genetic ablations, we found that a targeted combination of 
+bulk and selective autophagy drove the vast majority of the observed proteome 
+remodeling activity, with minimal non-autophagic contributions. Cytosolic 
+proteins and protein complexes, including ribosomes, were degraded via 
+Atg11-independent bulk autophagy, whereas proteins targeted to the peroxisome 
+and mitochondria were primarily degraded in an Atg11-dependent manner. Notably, 
+these degradative pathways were independently regulated by environmental cues. 
+Taken together, our new approach greatly increases the range of known autophagic 
+substrates and highlights the outsized impact of autophagy on proteome 
+remodeling. Moreover, the resulting datasets, which we have packaged in an 
+accessible online database, constitute a rich resource for identifying proteins 
+and pathways involved in fungal proteome remodeling.
+
+DOI: 10.1101/2024.09.24.614842
+PMCID: PMC11463512
+PMID: 39386609
+
+Conflict of interest statement: CONFLICTS OF INTEREST The authors declare no 
+conflicts of interest.
+
+
+14. Protein Sci. 2025 Jan;34(1):e5239. doi: 10.1002/pro.5239.
+
+Amino acid sequence encodes protein abundance shaped by protein stability at 
+reduced synthesis cost.
+
+Buric F(1), Viknander S(1), Fu X(1), Lemke O(2), Carmona OG(3)(4), Zrimec 
+J(1)(5), Szyrwiel L(2), Mülleder M(6), Ralser M(2), Zelezniak A(1)(3)(7).
+
+Author information:
+(1)Department of Biology and Biological Engineering, Chalmers University of 
+Technology, Gothenburg, Sweden.
+(2)Department of Biochemistry, Charité - Universitätsmedizin Berlin, Berlin, 
+Germany.
+(3)Randall Centre for Cell & Molecular Biophysics, King's College London, 
+London, UK.
+(4)Institute of Structural and Molecular Biology, University College London, 
+London, UK.
+(5)Department of Biotechnology and Systems Biology, National Institute of 
+Biology, Ljubljana, Slovenia.
+(6)Core Facility High Throughput Mass Spectrometry, Charité - 
+Universitätsmedizin Berlin, Berlin, Germany.
+(7)Institute of Biotechnology, Life Sciences Centre, Vilnius University, 
+Vilnius, Lithuania.
+
+Understanding what drives protein abundance is essential to biology, medicine, 
+and biotechnology. Driven by evolutionary selection, an amino acid sequence is 
+tailored to meet the required abundance of a proteome, underscoring the 
+intricate relationship between sequence and functional demand. Yet, the specific 
+role of amino acid sequences in determining proteome abundance remains elusive. 
+Here we show that the amino acid sequence alone encodes over half of protein 
+abundance variation across all domains of life, ranging from bacteria to mouse 
+and human. With an attempt to go beyond predictions, we trained a 
+manageable-size Transformer model to interpret latent factors predictive of 
+protein abundances. Intuitively, the model's attention focused on the protein's 
+structural features linked to stability and metabolic costs related to protein 
+synthesis. To probe these relationships, we introduce MGEM (Mutation Guided by 
+an Embedded Manifold), a methodology for guiding protein abundance through 
+sequence modifications. We find that mutations which increase predicted 
+abundance have significantly altered protein polarity and hydrophobicity, 
+underscoring a connection between protein structural features and abundance. 
+Through molecular dynamics simulations we revealed that abundance-enhancing 
+mutations possibly contribute to protein thermostability by increasing rigidity, 
+which occurs at a lower synthesis cost.
+
+© 2024 The Author(s). Protein Science published by Wiley Periodicals LLC on 
+behalf of The Protein Society.
+
+DOI: 10.1002/pro.5239
+PMCID: PMC11635393
+PMID: 39665261 [Indexed for MEDLINE]
+
+Conflict of interest statement: M.R. and A.Z. are a co‐founders of Eliptica 
+Limited. All other authors declare no competing interests.
+
+
+15. Cell Rep. 2025 Jan 28;44(1):115151. doi: 10.1016/j.celrep.2024.115151. Epub 2024 
+Dec 28.
+
+Bone marrow mesenchymal stromal cells support translation in refractory acute 
+myeloid leukemia.
+
+Lisi-Vega LE(1), Pievani A(2), García-Fernández M(1), Forte D(1), Williams 
+TL(3), Serafini M(4), Méndez-Ferrer S(5).
+
+Author information:
+(1)Cambridge Stem Cell Institute, Cambridge CB2 0AW, UK; Department of 
+Haematology, University of Cambridge, Cambridge CB2 0AW, UK; National Health 
+Service Blood and Transplant, Cambridge CB2 0AW, UK.
+(2)Tettamanti Center, Fondazione IRCCS San Gerardo Dei Tintori, 20900 Monza, 
+Italy.
+(3)Department of Veterinary Medicine, University of Cambridge, Cambridge CB3 
+0ES, UK.
+(4)Tettamanti Center, Fondazione IRCCS San Gerardo Dei Tintori, 20900 Monza, 
+Italy; School of Medicine and Surgery, University of Milano-Bicocca, 20900 
+Monza, Italy.
+(5)Cambridge Stem Cell Institute, Cambridge CB2 0AW, UK; Department of 
+Haematology, University of Cambridge, Cambridge CB2 0AW, UK; National Health 
+Service Blood and Transplant, Cambridge CB2 0AW, UK; Instituto de Biomedicina de 
+Sevilla-IBiS (Hospitales Universitarios Virgen Del Rocío y 
+Macarena/CSIC/Universidad de Sevilla), 41013 Seville, Spain; Departamento de 
+Fisiología Médica y Biofísica, Universidad de Sevilla, 41009 Seville, Spain. 
+Electronic address: sm2116@cam.ac.uk.
+
+In acute myeloid leukemia (AML), malignant cells surviving chemotherapy rely on 
+high mRNA translation and their microenvironmental metabolic support to drive 
+relapse. However, the role of translational reprogramming in the niche is 
+unclear. Here, we found that relapsing AML cells increase translation in their 
+bone marrow (BM) niches, where BM mesenchymal stromal cells (BMSCs) become a 
+source of eIF4A-cap-dependent translation machinery that is transferred to AML 
+cells via extracellular vesicles (EVs) to meet their translational demands. In 
+two independent models of highly chemo-resistant AML driven by MLL-AF9 or 
+FLT3-ITD (internal tandem duplication) and nucleophosmin (NPMc) mutations, 
+protein synthesis levels increase in refractory AML dependent on nestin+ BMSCs. 
+Inhibiting cap-dependent translation in BMSCs abolishes their chemoprotective 
+ability, while EVs from BMSCs carrying eIF4A boost AML cell translation and 
+survival. Consequently, eIF4A inhibition synergizes with conventional 
+chemotherapy. Together, these results suggest that AML cells rely on BMSCs to 
+maintain an oncogenic translational program required for relapse.
+
+Copyright © 2024 The Author(s). Published by Elsevier Inc. All rights reserved.
+
+DOI: 10.1016/j.celrep.2024.115151
+PMCID: PMC7617453
+PMID: 39932190 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declaration of interests The authors declare no 
+competing interests.
+
+
+16. Nat Commun. 2024 Oct 1;15(1):8505. doi: 10.1038/s41467-024-52662-2.
+
+Cellular location shapes quaternary structure of enzymes.
+
+Abrusán G(1), Zelezniak A(2)(3)(4).
+
+Author information:
+(1)Randall Centre for Cell and Molecular Biophysics, School of Basic and Medical 
+Biosciences, King's College London, New Hunt's House, London, UK. 
+gyorgy.abrusan@kcl.ac.uk.
+(2)Randall Centre for Cell and Molecular Biophysics, School of Basic and Medical 
+Biosciences, King's College London, New Hunt's House, London, UK.
+(3)Department of Life Sciences, Chalmers University of Technology, Gothenburg, 
+Sweden.
+(4)Institute of Biotechnology, Life Sciences Centre, Vilnius University, 
+Vilnius, Lithuania.
+
+The main forces driving protein complex evolution are currently not well 
+understood, especially in homomers, where quaternary structure might frequently 
+evolve neutrally. Here we examine the factors determining oligomerisation by 
+analysing the evolution of enzymes in circumstances where homomers rarely 
+evolve. We show that 1) In extracellular environments, most enzymes with known 
+structure are monomers, while in the cytoplasm homomers, indicating that the 
+evolution of oligomers is cellular environment dependent; 2) The evolution of 
+quaternary structure within protein orthogroups is more consistent with the 
+predictions of constructive neutral evolution than an adaptive process: 
+quaternary structure is gained easier than it is lost, and most extracellular 
+monomers evolved from proteins that were monomers also in their ancestral state, 
+without the loss of interfaces. Our results indicate that oligomerisation is 
+context-dependent, and even when adaptive, in many cases it is probably not 
+driven by the intrinsic properties of enzymes, like their biochemical function, 
+but rather the properties of the environment where the enzyme is active. These 
+factors might be macromolecular crowding and excluded volume effects 
+facilitating the evolution of interfaces, and the maintenance of cellular 
+homeostasis through shaping cytoplasm fluidity, protein degradation, or 
+diffusion rates.
+
+© 2024. The Author(s).
+
+DOI: 10.1038/s41467-024-52662-2
+PMCID: PMC11445431
+PMID: 39353940 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+17. NAR Genom Bioinform. 2025 Jun 19;7(2):lqaf086. doi: 10.1093/nargab/lqaf086. 
+eCollection 2025 Jun.
+
+Why AGG is associated with high transgene output: passenger effects and their 
+implications for transgene design.
+
+Daniels KG(1), Radrizzani S(1), Hurst LD(1).
+
+Author information:
+(1)Milner Centre for Evolution, Department of Life Sciences, University of Bath, 
+Bath, BA2 7AY, UK.
+
+In bacteria, high A and low G content of the 5' end of the coding sequence (CDS) 
+promotes low RNA stability, facilitating ribosomal initiation and subsequently a 
+high protein to transcript ratio. Additionally, 5' NGG codons are suppressive 
+owing to peptidyl-tRNA drop off. It was, therefore, surprising that the first 
+large-scale transgene experiment to interrogate the 5' effect by codon 
+randomization found the NGG, G-rich codon AGG to be the most associated with 
+high transgene output. Why is this? We show that this is not replicated in other 
+large transgene datasets, where AGG and NGG are associated with low efficiency. 
+More generally, there is limited agreement between the first experiment and 
+others. This we find to be a consequence of non-random construct design. In 
+constructs of the first experiment, AGG disproportionately occurs with non-AGG 
+codons associated with low stability and high protein output, making AGG's 
+association with high output an artefact. While translationally non-optimal 
+codons like AGG are conjectured to slow ribosomes for orderly initiation, we 
+find that in the less biased constructs high, not low, translational adaptation 
+in the first 10 codons is (weakly) predictive of higher translational 
+efficiency. These results have implications for both transgene and experimental 
+design.
+
+© The Author(s) 2025. Published by Oxford University Press on behalf of NAR 
+Genomics and Bioinformatics.
+
+DOI: 10.1093/nargab/lqaf086
+PMCID: PMC12204400
+PMID: 40585300 [Indexed for MEDLINE]
+
+Conflict of interest statement: L.D.H. is a member of the Scientific Advisory 
+Board of ExpressionEdits.
+
+
+18. Int J Mol Sci. 2024 Oct 29;25(21):11622. doi: 10.3390/ijms252111622.
+
+Link Between Individual Codon Frequencies and Protein Expression: Going Beyond 
+Codon Adaptation Index.
+
+Zaytsev K(1), Bogatyreva N(1), Fedorov A(1).
+
+Author information:
+(1)Bach Institute of Biochemistry, Federal Research Center of Biotechnology of 
+the Russian Academy of Sciences, Moscow 119071, Russia.
+
+An important role of a particular synonymous codon composition of a gene in its 
+expression level is well known. There are a number of algorithms optimizing 
+codon usage of recombinant genes to maximize their expression in host cells. 
+Nevertheless, the underlying mechanism remains unsolved and is of significant 
+relevance. In the realm of modern biotechnology, directing protein production to 
+a specific level is crucial for metabolic engineering, genome rewriting and a 
+growing number of other applications. In this study, we propose two new simple 
+statistical and empirical methods for predicting the protein expression level 
+from the nucleotide sequence of the corresponding gene: Codon Expression Index 
+Score (CEIS) and Codon Productivity Score (CPS). Both of these methods are based 
+on the influence of each individual codon in the gene on the overall expression 
+level of the encoded protein and the frequencies of isoacceptors in the species. 
+Our predictions achieve a correlation level of up to r = 0.7 with experimentally 
+measured quantitative proteome data of Escherichia coli, which is superior to 
+any previously proposed methods. Our work helps understand how codons determine 
+protein abundances. Based on these methods, it is possible to design proteins 
+optimized for expression in a particular organism.
+
+DOI: 10.3390/ijms252111622
+PMCID: PMC11546221
+PMID: 39519173 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest. 
+The funders had no role in the design of the study; in the collection, analyses, 
+or interpretation of data; in the writing of the manuscript; or in the decision 
+to publish the results.
+
+
+19. Adv Sci (Weinh). 2025 Feb;12(8):e2407664. doi: 10.1002/advs.202407664. Epub 2025 
+Jan 9.
+
+Effective Gene Expression Prediction and Optimization from Protein Sequences.
+
+Liu T(1)(2)(3), Zhang Y(2), Li Y(2), Xu G(1), Gao H(1), Wang P(2), Tu T(1), Luo 
+H(1), Wu N(2), Yao B(1), Liu B(2), Guan F(2), Huang H(1), Tian J(1).
+
+Author information:
+(1)State Key Laboratory of Animal Nutrition and Feeding, Institute of Animal 
+Sciences, Chinese Academy of Agricultural Sciences, Beijing, 100193, China.
+(2)National Key Laboratory of Agricultural Microbiology, Biotechnology Research 
+Institute, Chinese Academy of Agricultural Sciences, Beijing, 100081, China.
+(3)School of Life Sciences, Tianjin University, Tianjin, 300110, China.
+
+High soluble protein expression in heterologous hosts is crucial for various 
+research and applications. Despite considerable research on the impact of codon 
+usage on expression levels, the relationship between protein sequence and 
+expression is often overlooked. In this study, a novel connection between 
+protein expression and sequence is uncovered, leading to the development of SRAB 
+(Strength of Relative Amino Acid Bias) based on AEI (Amino Acid Expression 
+Index). The AEI served as an objective measure of this correlation, with higher 
+AEI values enhancing soluble expression. Subsequently, the pre-trained protein 
+model MP-TRANS (MindSpore Protein Transformer) is developed and fine-tuned using 
+transfer learning techniques to create 88 prediction models (MPB-EXP) for 
+predicting heterologous expression levels across 88 species. This approach 
+achieved an average accuracy of 0.78, surpassing conventional machine learning 
+methods. Additionally, a mutant generation model, MPB-MUT, is devised and 
+utilized to enhance expression levels in specific hosts. Experimental validation 
+demonstrated that the top 3 mutants of xylanase (previously not expressed in 
+Escherichia coli) successfully achieved high-level soluble expression in E. 
+coli. These findings highlight the efficacy of the developed model in predicting 
+and optimizing gene expression based on protein sequences.
+
+© 2025 The Author(s). Advanced Science published by Wiley‐VCH GmbH.
+
+DOI: 10.1002/advs.202407664
+PMCID: PMC11848636
+PMID: 39783932 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+20. Genome Biol. 2025 Feb 20;26(1):33. doi: 10.1186/s13059-025-03497-7.
+
+catGRANULE 2.0: accurate predictions of liquid-liquid phase separating proteins 
+at single amino acid resolution.
+
+Monti M(#)(1)(2), Fiorentino J(#)(1)(2), Miltiadis-Vrachnos D(2)(3), Bini 
+G(2)(4), Cotrufo T(5), Sanchez de Groot N(6), Armaos A(1)(2), Tartaglia 
+GG(7)(8).
+
+Author information:
+(1)Center for Life Nano- & NeuroScience, Fondazione Istituto Italiano di 
+Tecnologia, Viale Regina Elena 291, 00161, Rome, Italy.
+(2)RNA Systems Biology Lab, Centre for Human Technologies, Fondazione Istituto 
+Italiano di Tecnologia, Via Enrico Melen 83, 16152, Genoa, Italy.
+(3)Department of Biology and Biotechnologies, University of Rome Sapienza, 
+Piazzale Aldo Moro 5, 00185, Rome, Italy.
+(4)Physics Department, University of Genoa, Via Dodecaneso 33, 16146, Genoa, 
+Italy.
+(5)Departament de Biologia Cellular, Fisiologia i Immunologia, Universitat de 
+Barcelona, Avenida Diagonal 643, 08028, Barcelona, Spain.
+(6)Department of Biochemistry and Molecular Biology, Universitat Autònoma de 
+Barcelona, Bellaterra (Cerdanyola del Vallès), 08193, Barcelona, Spain.
+(7)Center for Life Nano- & NeuroScience, Fondazione Istituto Italiano di 
+Tecnologia, Viale Regina Elena 291, 00161, Rome, Italy. gian.tartaglia@iit.it.
+(8)RNA Systems Biology Lab, Centre for Human Technologies, Fondazione Istituto 
+Italiano di Tecnologia, Via Enrico Melen 83, 16152, Genoa, Italy. 
+gian.tartaglia@iit.it.
+(#)Contributed equally
+
+Liquid-liquid phase separation (LLPS) enables the formation of membraneless 
+organelles, essential for cellular organization and implicated in diseases. We 
+introduce catGRANULE 2.0 ROBOT, an algorithm integrating physicochemical 
+properties and AlphaFold-derived structural features to predict LLPS at 
+single-amino-acid resolution. The method achieves high performance and reliably 
+evaluates mutation effects on LLPS propensity, providing detailed predictions of 
+how specific mutations enhance or inhibit phase separation. Supported by 
+experimental validations, including microscopy data, it predicts LLPS across 
+diverse organisms and cellular compartments, offering valuable insights into 
+LLPS mechanisms and mutational impacts. The tool is freely available at 
+https://tools.tartaglialab.com/catgranule2 and 
+https://doi.org/10.5281/zenodo.14205831 .
+
+© 2025. The Author(s).
+
+DOI: 10.1186/s13059-025-03497-7
+PMCID: PMC11843755
+PMID: 39979996 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Ethics approval and consent to 
+participate: Not applicable. Consent for publication: Not applicable. Competing 
+interests: The authors declare no competing interests.
+
+
+21. Front Immunol. 2025 Jul 17;16:1576468. doi: 10.3389/fimmu.2025.1576468. 
+eCollection 2025.
+
+TOX, through a glass, darkly.
+
+Hogan PG(1)(2)(3), Villalobos Reveles B(1), Arteaga Vazquez LJ(1).
+
+Author information:
+(1)La Jolla Institute for Immunology, La Jolla, CA, United States.
+(2)Moores Cancer Center, University of California-San Diego, La Jolla, CA, 
+United States.
+(3)Program in Immunology, University of California-San Diego, La Jolla, CA, 
+United States.
+
+The transcription factor TOX has attracted attention in recent years for its 
+role in CD8+ T cell exhaustion. In fact, TOX was known historically for its 
+diverse roles in immune cell biology. Here, we inquire into the basis for this 
+versatility, and propose that one main consideration is that TOX is an HMG-box 
+transcription factor. We discuss some mechanisms that other HMG-box 
+transcription factors employ to perform their cellular functions, as examples of 
+the range of mechanisms TOX might employ in furthering T cell exhaustion. This 
+inquiry begins with the literature placing TOX as a central player in CD8+ T 
+cell exhaustion and in other immune cell processes. An understanding of TOX as a 
+transcription factor has to be organized around its binding to relevant target 
+sites in DNA. Thus, we next cover the reasons that TOX is classified as an 
+HMG-box protein, the well-defined but narrow scope of what TOX shares with other 
+HMG-box proteins, and the unequivocal evidence that binding of HMG-box proteins 
+stabilizes kinked or bent DNA. We consider the constant features and some 
+variables in DNA recognition by HMG-box proteins. Since binding and bending DNA 
+is not in isolation an explanation of any biological process, we look at 
+biological examples highlighting specific ways that HMG-box proteins drive 
+cellular processes. Finally, we outline some lines of research that could be 
+informative in understanding the cellular mechanisms of TOX in T cell 
+exhaustion.
+
+Copyright © 2025 Hogan, Villalobos Reveles and Arteaga Vazquez.
+
+DOI: 10.3389/fimmu.2025.1576468
+PMCID: PMC12311638
+PMID: 40746547 [Indexed for MEDLINE]
+
+Conflict of interest statement: PH is a founder and scientific advisor of 
+CalciMedica, Inc. The remaining authors declare that the research was conducted 
+in the absence of any commercial or financial relationships that could be 
+construed as a potential conflict of interest.
+
+
+22. Int J Mol Sci. 2024 Mar 26;25(7):3684. doi: 10.3390/ijms25073684.
+
+Discrimination of Etiologically Different Cholestasis by Modeling Proteomics 
+Datasets.
+
+Guerrero L(1), Vindel-Alfageme J(1), Hierro L(2), Stark L(2), Vicent D(2), 
+Sorzano CÓS(1), Corrales FJ(1).
+
+Author information:
+(1)Centro Nacional de Biotecnología (CNB-CSIC), c/Darwin, 3, 28049 Madrid, 
+Spain.
+(2)IdiPAZ, Instituto de Investigación Sanitaria (Health Research Institute), 
+Hospital Universitario La Paz, Paseo de la Castellana 261, 28046 Madrid, Spain.
+
+Cholestasis is characterized by disrupted bile flow from the liver to the small 
+intestine. Although etiologically different cholestasis displays similar 
+symptoms, diverse factors can contribute to the progression of the disease and 
+determine the appropriate therapeutic option. Therefore, stratifying cholestatic 
+patients is essential for the development of tailor-made treatment strategies. 
+Here, we have analyzed the liver proteome from cholestatic patients of different 
+etiology. In total, 7161 proteins were identified and quantified, of which 263 
+were differentially expressed between control and cholestasis groups. These 
+differential proteins point to deregulated cellular processes that explain part 
+of the molecular framework of cholestasis progression. However, the clustering 
+of different cholestasis types was limited. Therefore, a machine learning 
+pipeline was designed to identify a panel of 20 differential proteins that 
+segregate different cholestasis groups with high accuracy and sensitivity. In 
+summary, proteomics combined with machine learning algorithms provides valuable 
+insights into the molecular mechanisms of cholestasis progression and a panel of 
+proteins to discriminate across different types of cholestasis. This strategy 
+may prove useful in developing precision medicine approaches for patient care.
+
+DOI: 10.3390/ijms25073684
+PMCID: PMC11011353
+PMID: 38612495 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflict of interest.
+
+
+23. Genome Biol Evol. 2025 Mar 6;17(3):evaf040. doi: 10.1093/gbe/evaf040.
+
+A Short-Term View of Protein Sequence Evolution from Salmonella.
+
+Cherry JL(1)(2).
+
+Author information:
+(1)National Center for Biotechnology Information, National Library of Medicine, 
+National Institutes of Health, Bethesda, MD, USA.
+(2)Division of International Epidemiology and Population Studies, Fogarty 
+International Center, National Institutes of Health, Bethesda, MD, USA.
+
+Much of the study of protein sequence evolution is based on sequence changes 
+inferred to have occurred in nature. The sequences compared for this purpose are 
+usually sufficiently distant that purifying selection has had nearly its full 
+effect and most of the changes inferred have been exposed to a variety of 
+conditions. Here, I make use of large numbers of Salmonella genome sequences to 
+study changes known to be of very recent origin because they are inferred from 
+comparison of very closely related sequences. The effects of purifying selection 
+are weak yet discernible on this short timescale: the ratio of nonsynonymous to 
+synonymous changes is smaller than expected under selective neutrality, but only 
+slightly so. Essential genes have lower rates of nonsynonymous change, as they 
+do on a longer timescale, but much more of this association remains after 
+controlling for expression level. Positive selection for nonsynonymous change is 
+inferred for 151 genes. For nearly half of these, this is attributable to 
+selection for loss of function. Other forms of positive selection inferred 
+include selection for amino acid changes that make enzymes less sensitive to 
+antibiotics and selection for activating changes to proteins involved in 
+transcriptional regulation. Positively selected variants of many genes are 
+likely favored only under unusual conditions and disfavored in the long term, 
+making detection of the positive selection with more distant comparisons 
+difficult or impossible. The short-term view provided by close comparisons 
+complements the long-term view obtained from more distant comparisons such as 
+those between species.
+
+Published by Oxford University Press on behalf of Society for Molecular Biology 
+and Evolution 2025.
+
+DOI: 10.1093/gbe/evaf040
+PMCID: PMC11925014
+PMID: 40048608 [Indexed for MEDLINE]
+
+
+24. Nat Commun. 2025 Jul 26;16(1):6906. doi: 10.1038/s41467-025-62207-w.
+
+A complex between IF2 and NusA suggests early coupling of 
+transcription-translation.
+
+Metelev M(1), Johansson M(2).
+
+Author information:
+(1)Department of Cell & Molecular Biology, Uppsala University, Uppsala, Sweden.
+(2)Department of Cell & Molecular Biology, Uppsala University, Uppsala, Sweden. 
+m.johansson@icm.uu.se.
+
+The main function of translation initiation factors is to assist ribosomes in 
+selecting the correct reading frame on an mRNA. This process has been 
+extensively studied with the help of reconstituted in vitro systems, but the 
+dynamics in living cells have not been characterized. In this study, we 
+performed single-molecule tracking of the bacterial initiation factors IF2, IF3, 
+as well as the initiator fMet-tRNAfMet directly in growing Escherichia coli 
+cells. Our results reveal the kinetics of factor association with the ribosome 
+and, among other things, highlight the respective antagonistic roles of IF2 and 
+IF3 in the process. Importantly, our comparisons of in vivo binding kinetics of 
+two naturally occurring isoforms of IF2 reveal that the longer IF2α isoform 
+directly interacts with the transcriptional factor NusA, a finding further 
+corroborated by pull-down and cross-linking experiments. Our results suggest 
+that this interaction may promote formation of a coupled 
+transcription-translation complex early in the translation cycle, motivating 
+further structural studies to validate the mechanism. We further show that cells 
+with compromised binding between IF2α and NusA display slow adaptation to new 
+growth conditions.
+
+© 2025. The Author(s).
+
+DOI: 10.1038/s41467-025-62207-w
+PMCID: PMC12297416
+PMID: 40715203 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: The authors declare no 
+competing interests.
+
+
+25. Wiley Interdiscip Rev RNA. 2025 Jul-Aug;16(4):e70024. doi: 10.1002/wrna.70024.
+
+Emerging Roles of Biomolecular Condensates in Pre-mRNA 3' End Processing.
+
+Yoon Y(1), Liu L(1), Quan C(1), Shi Y(1).
+
+Author information:
+(1)Department of Microbiology and Molecular Genetics, School of Medicine, 
+University of California, Irvine, Irvine, California, USA.
+
+Biomolecular condensates are membraneless assemblies of proteins and nucleic 
+acids, often formed through liquid-liquid phase separation. They selectively 
+concentrate specific biomolecules and play essential roles in diverse cellular 
+processes and diseases. This review discusses the emerging roles of biomolecular 
+condensates in pre-mRNA 3' end processing, a critical step in mRNA biogenesis. 
+3' end processing factors are enriched in intrinsically disordered regions and 
+undergo phase separation to form condensates that, in turn, fine-tune the 
+efficiency and specificity of 3' end processing. Additionally, we describe how 
+distinct 3' end processing pathways are spatially and functionally 
+compartmentalized within nuclear biomolecular condensates, such as nuclear 
+speckles and histone locus bodies. Finally, we propose that 3' end processing 
+represents a promising experimental system to investigate fundamental principles 
+underlying biomolecular condensate formation and function. This article is 
+categorized under: RNA Interactions with Proteins and Other Molecules > 
+Protein-RNA Recognition RNA Interactions with Proteins and Other Molecules > 
+RNA-Protein Complexes RNA Interactions with Proteins and Other Molecules > 
+Protein-RNA Interactions: Functional Implications.
+
+© 2025 Wiley Periodicals LLC.
+
+DOI: 10.1002/wrna.70024
+PMCID: PMC12441778
+PMID: 40804711 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest.
+
+
+26. Nat Commun. 2025 Oct 27;16(1):9391. doi: 10.1038/s41467-025-64258-5.
+
+CRL4(DCAF12) regulation of MCMBP ensures optimal licensing of DNA replication.
+
+Yadav AK(#)(1)(2), Abdirov A(#)(3), Ondruskova K(3), Negi S(1)(2), Jamrichova 
+K(3), Kolarova K(3)(4), Dibus N(3), Krejci J(1), Polasek-Sedlackova H(5), Cermak 
+L(6).
+
+Author information:
+(1)Institute of Biophysics, Czech Academy of Sciences, Brno, Czechia.
+(2)Department of Experimental Biology, Faculty of Science, Masaryk University, 
+Brno, Czechia.
+(3)Laboratory of Cancer Biology, Institute of Molecular Genetics, Czech Academy 
+of Sciences, Prague, Czechia.
+(4)Faculty of Science, Charles University, Prague, Czechia.
+(5)Institute of Biophysics, Czech Academy of Sciences, Brno, Czechia. 
+polasek-sedlackova@ibp.cz.
+(6)Laboratory of Cancer Biology, Institute of Molecular Genetics, Czech Academy 
+of Sciences, Prague, Czechia. lukas.cermak@img.cas.cz.
+(#)Contributed equally
+
+The minichromosome maintenance (MCM2-7) protein complexes are central drivers of 
+genome duplication. Distinct protein pools, parental and nascent MCMs, and their 
+precise equilibrium are essential to sustain error-free DNA replication. 
+However, the mechanism responsible for generating these pools and maintaining 
+their equilibrium remains largely unexplored. Here, we identified CRL4DCAF12 as 
+a factor controlling the assembly of nascent MCM complexes. During MCM 
+biogenesis, MCMBP facilitates the assembly and transport of newly synthesized 
+MCM3-7 subcomplexes into the nucleus. Once in the nucleus, the MCM2 subunit must 
+be incorporated into the MCM3-7 subcomplex, while MCMBP needs to be removed. 
+CRL4DCAF12 facilitates the degradation of MCMBP and thereby regulates the 
+assembly of MCM2-7 complexes. The absence of CRL4DCAF12 adversely affects the 
+level of chromatin-bound nascent MCMs, resulting in accelerated replication 
+forks and replication stress. Collectively, our findings uncovered the molecular 
+mechanism underlying nascent MCM production essential to counteract genome 
+instability.
+
+© 2025. The Author(s).
+
+DOI: 10.1038/s41467-025-64258-5
+PMCID: PMC12559739
+PMID: 41145411 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: The authors declare no 
+competing interests.
+
+
+27. EJNMMI Radiopharm Chem. 2023 Oct 18;8(1):31. doi: 10.1186/s41181-023-00217-z.
+
+Synthesis and evaluation of a novel PET ligand, a GSK'963 analog, aiming at 
+autoradiography and imaging of the receptor interacting protein kinase 1 in the 
+brain.
+
+Ikenuma H(#)(1), Ogata A(1)(2), Koyama H(3), Ji B(1)(4)(5), Ishii H(1)(6), 
+Yamada T(1), Abe J(1), Seki C(1)(4), Nagai Y(4), Ichise M(1)(4), Minamimoto 
+T(4), Higuchi M(4), Zhang MR(6), Kato T(1), Ito K(1), Suzuki M(1)(3), Kimura 
+Y(7)(8).
+
+Author information:
+(1)Department of Clinical and Experimental Neuroimaging, Center for Development 
+of Advanced Medicine for Dementia, National Center for Geriatrics and 
+Gerontology (NCGG), 7-430 Morioka-Cho, Obu, Aichi, 474-8511, Japan.
+(2)Department of Pharmacy, Faculty of Pharmacy, Gifu University of Medical 
+Science (GUMS), Kani, Japan.
+(3)Department of Chemistry and Biomolecular Science, Faculty of Engineering, 
+Gifu University, Gifu, Japan.
+(4)Department of Functional Brain Imaging, National Institutes for Quantum 
+Science and Technology (QST), Chiba, Japan.
+(5)Department of Radiopharmacy and Molecular Imaging, School of Pharmacy, Fudan 
+University, Shanghai, China.
+(6)Department of Advanced Nuclear Medicine Sciences, National Institutes for 
+Quantum Science and Technology (QST), Chiba, Japan.
+(7)Department of Clinical and Experimental Neuroimaging, Center for Development 
+of Advanced Medicine for Dementia, National Center for Geriatrics and 
+Gerontology (NCGG), 7-430 Morioka-Cho, Obu, Aichi, 474-8511, Japan. 
+yazkim@ncgg.go.jp.
+(8)Department of Functional Brain Imaging, National Institutes for Quantum 
+Science and Technology (QST), Chiba, Japan. yazkim@ncgg.go.jp.
+(#)Contributed equally
+
+BACKGROUND: Receptor interacting protein kinase 1 (RIPK1) is a serine/threonine 
+kinase, which regulates programmed cell death and inflammation. Recently, the 
+involvement of RIPK1 in the pathophysiology of Alzheimer's disease (AD) has been 
+reported; RIPK1 is involved in microglia's phenotypic transition to their 
+dysfunctional states, and it is highly expressed in the neurons and microglia in 
+the postmortem brains in AD patients. They prompt neurodegeneration leading to 
+accumulations of pathological proteins in AD. Therefore, regulation of RIPK1 
+could be a potential therapeutic target for the treatment of AD, and in vivo 
+imaging of RIPK1 may become a useful modality in studies of drug discovery and 
+pathophysiology of AD. The purpose of this study was to develop a suitable 
+radioligand for positron emission tomography (PET) imaging of RIPK1.
+RESULTS: (S)-2,2-dimethyl-1-(5-phenyl-4,5-dihydro-1H-pyrazol-1-yl)propan-1-one 
+(GSK'963) has a high affinity, selectivity for RIPK1, and favorable 
+physiochemical properties based on its chemical structure. In this study, since 
+11C-labeling (half-life: 20.4 min) GSK'963 retaining its structure requiring the 
+Grignard reaction of tert-butylmagnesium halides and [11C]carbon dioxide was 
+anticipated to give a low yield, we decided instead to 11C-label a GSK'963 
+analog 
+((S)-2,2-dimethyl-1-(5-(m-tolyl)-4,5-dihydro-1H-pyrazol-1-yl)propan-1-one, 
+GG502), which has a high RIPK1 inhibitory activity equivalent to that of the 
+original compound GSK'963. Thus, we successfully 11C-labeled GG502 using a 
+Pd-mediated cross-coupling reaction in favorable yields (3.6 ± 1.9%) and 
+radiochemical purities (> 96%), and molar activity (47-115 GBq/μmol). On 
+autoradiography, radioactivity accumulation was observed for [11C]GG502 and 
+decreased by non-radioactive GG502 in the mouse spleen and human brain, 
+indicating the possibility of specific binding of this ligand to RIPK1. On brain 
+PET imaging in a rhesus monkey, [11C]GG502 showed a good brain permeability 
+(peak standardized uptake value (SUV) ~3.0), although there was no clear 
+evidence of specific binding of [11C]GG502. On brain PET imaging in acute 
+inflammation model rats, [11C]GG502 also showed a good brain permeability, and 
+no significant increased uptake was observed in the lipopolysaccharide-treated 
+side of striatum. On metabolite analysis in rats at 30 min after administration 
+of [11C]GG502, ~55% and ~10% of radioactivity was from unmetabolized [11C]GG502 
+in the brain and the plasma, respectively.
+CONCLUSIONS: We synthesized and evaluated a 11C-labeled PET ligand based on the 
+methylated analog of GSK'963 for imaging of RIPK1 in the brain. Although in 
+autoradiography of the resulting [11C]GG502 indicated the possibility of 
+specific binding, the actual PET imaging failed to detect any evidence of 
+specific binding to RIPK1 despite its good brain permeability. Further 
+development of radioligands with a higher binding affinity for RIPK1 in vivo and 
+more stable metabolite profiles compared with the current compound may be 
+required.
+
+© 2023. Springer Nature Switzerland AG.
+
+DOI: 10.1186/s41181-023-00217-z
+PMCID: PMC10584749
+PMID: 37853253
+
+Conflict of interest statement: The authors declare that they have no competing 
+interests.
+
+
+28. Nat Commun. 2024 Oct 2;15(1):8537. doi: 10.1038/s41467-024-52844-y.
+
+Cell fixation improves performance of in situ crosslinking mass spectrometry 
+while preserving cellular ultrastructure.
+
+Michael ARM(#)(1), Amaral BC(#)(1), Ball KL(1), Eiriksson KH(1), Schriemer 
+DC(2)(3).
+
+Author information:
+(1)Department of Biochemistry and Molecular Biology, University of Calgary, 
+Calgary, Alberta, T2N-4N1, Canada.
+(2)Department of Biochemistry and Molecular Biology, University of Calgary, 
+Calgary, Alberta, T2N-4N1, Canada. dschriem@ucalgary.ca.
+(3)Department of Chemistry, University of Calgary, Calgary, Alberta, T2N-4N1, 
+Canada. dschriem@ucalgary.ca.
+(#)Contributed equally
+
+Crosslinking mass spectrometry (XL-MS) has the potential to map the interactome 
+of the cell with high resolution and depth of coverage. However, current in vivo 
+XL-MS methods are hampered by crosslinkers that demonstrate low cell 
+permeability and require long reaction times. Consequently, interactome sampling 
+is not high and long incubation times can distort the cell, bringing into 
+question the validity any protein interactions identified by the method. We 
+address these issues with a fast formaldehyde-based fixation method applied 
+prior to the introduction of secondary crosslinkers. Using human A549 cells and 
+a range of reagents, we show that 4% formaldehyde fixation with membrane 
+permeabilization preserves cellular ultrastructure and simultaneously improves 
+reaction conditions for in situ XL-MS. Protein labeling yields can be increased 
+even for nominally membrane-permeable reagents, and surprisingly, 
+high-concentration formaldehyde does not compete with conventional 
+amine-reactive crosslinking reagents. Prefixation with permeabilization 
+uncouples cellular dynamics from crosslinker dynamics, enhancing control over 
+crosslinking yield and permitting the use of any chemical crosslinker.
+
+© 2024. The Author(s).
+
+DOI: 10.1038/s41467-024-52844-y
+PMCID: PMC11447256
+PMID: 39358380 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+29. J Proteome Res. 2024 Jun 7;23(6):1948-1959. doi: 10.1021/acs.jproteome.3c00741. 
+Epub 2024 May 8.
+
+Integrated Proteomics Analysis of Baseline Protein Expression in Pig Tissues.
+
+Wang S(1), Collins A(2), Prakash A(1)(3), Fexova S(1), Papatheodorou I(1)(3), 
+Jones AR(2), Vizcaíno JA(1)(3).
+
+Author information:
+(1)European Molecular Biology Laboratory-European Bioinformatics Institute 
+(EMBL-EBI), Wellcome Genome Campus, Hinxton, Cambridge CB10 1SD, United Kingdom.
+(2)Institute of Systems, Molecular and Integrative Biology, University of 
+Liverpool, Liverpool L69 7ZB, United Kingdom.
+(3)Open Targets, Wellcome Genome Campus, Hinxton, Cambridge CB10 1SD, United 
+Kingdom.
+
+The availability of an increasingly large amount of public proteomics data sets 
+presents an opportunity for performing combined analyses to generate 
+comprehensive organism-wide protein expression maps across different organisms 
+and biological conditions. Sus scrofa, a domestic pig, is a model organism 
+relevant for food production and for human biomedical research. Here, we 
+reanalyzed 14 public proteomics data sets from the PRIDE database coming from 
+pig tissues to assess baseline (without any biological perturbation) protein 
+abundance in 14 organs, encompassing a total of 20 healthy tissues from 128 
+samples. The analysis involved the quantification of protein abundance in 599 
+mass spectrometry runs. We compared protein expression patterns among different 
+pig organs and examined the distribution of proteins across these organs. Then, 
+we studied how protein abundances were compared across different data sets and 
+studied the tissue specificity of the detected proteins. Of particular interest, 
+we conducted a comparative analysis of protein expression between pig and human 
+tissues, revealing a high degree of correlation in protein expression among 
+orthologs, particularly in brain, kidney, heart, and liver samples. We have 
+integrated the protein expression results into the Expression Atlas resource for 
+easy access and visualization of the protein expression data individually or 
+alongside gene expression data.
+
+DOI: 10.1021/acs.jproteome.3c00741
+PMCID: PMC11165573
+PMID: 38717300 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing financial 
+interest.
+
+
+30. Molecules. 2025 Mar 8;30(6):1220. doi: 10.3390/molecules30061220.
+
+Beyond Static Tethering at Membrane Contact Sites: Structural Dynamics and 
+Functional Implications of VAP Proteins.
+
+Kodama TS(1), Furuita K(1), Kojima C(1)(2).
+
+Author information:
+(1)Institute for Protein Research, Osaka University, 3-2 Yamadaoka, Suita, Osaka 
+565-0871, Japan.
+(2)Graduate School of Engineering Science, Yokohama National University, 
+Tokiwadai 79-5, Hodogaya-ku, Yokohama 240-8501, Japan.
+
+The membranes surrounding the eukaryotic cell and its organelles are 
+continuously invaginating, budding, and undergoing membrane fusion-fission 
+events, which enable them to perform functions not found in prokaryotic cells. 
+In addition, organelles come into close contact with each other at membrane 
+contact sites (MCSs), which involve many types of proteins, and which regulate 
+the signaling and transport of various molecules. Vesicle-associated membrane 
+protein (VAMP)-associated protein (VAP) is an important factor involved in the 
+tethering and contact of various organelles at MCSs in almost all eukaryotes and 
+has attracted attention for its association with various diseases, mainly 
+neurodegenerative diseases such as amyotrophic lateral sclerosis (ALS). However, 
+the detailed mechanism of its functional expression remains unclear. In this 
+review, we quantitatively discuss the structural dynamics of the entire 
+molecule, including intrinsically disordered regions and intramolecular and 
+intermolecular interactions, focusing on the vertebrate VAP paralogs VAPA and 
+VAPB. Molecular phylogenetic and biophysical considerations are the basis of the 
+work.
+
+DOI: 10.3390/molecules30061220
+PMCID: PMC11944328
+PMID: 40141996 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no conflicts of interest. 
+The funders had no role in the design of the study; in the collection, analyses, 
+or interpretation of data; in the writing of the manuscript; or in the decision 
+to publish the results.
+
+
+31. Bull Math Biol. 2025 May 16;87(6):74. doi: 10.1007/s11538-025-01447-9.
+
+Modelling Population-Level Hes1 Dynamics: Insights from a Multi-framework 
+Approach.
+
+Menz G(1), Engblom S(2)(3).
+
+Author information:
+(1)Division of Scientific Computing, Department of Information Technology, 
+Uppsala University, 751 05, Uppsala, Sweden.
+(2)Division of Scientific Computing, Department of Information Technology, 
+Uppsala University, 751 05, Uppsala, Sweden. stefane@it.uu.se.
+(3)Science for Life Laboratory, Department of Information Technology, Uppsala 
+University, Uppsala, Sweden. stefane@it.uu.se.
+
+Mathematical models of living cells have been successively refined with 
+advancements in experimental techniques. A main concern is striking a balance 
+between modelling power and the tractability of the associated mathematical 
+analysis. In this work we model the dynamics for the transcription factor Hairy 
+and enhancer of split-1 (Hes1), whose expression oscillates during neural 
+development, and which critically enables stable fate decision in the embryonic 
+brain. We design, parametrise, and analyse a detailed spatial model using 
+ordinary differential equations (ODEs) over a grid capturing both transient 
+oscillatory behaviour and fate decision on a population-level. We also 
+investigate the relationship between this ODE model and a more realistic 
+grid-based model involving intrinsic noise using mostly directly biologically 
+motivated parameters. While we focus specifically on Hes1 in neural development, 
+the approach of linking deterministic and stochastic grid-based models shows 
+promise in modelling various biological processes taking place in a cell 
+population. In this context, our work stresses the importance of the 
+interpretability of complex computational models into a framework which is 
+amenable to mathematical analysis.
+
+© 2025. The Author(s).
+
+DOI: 10.1007/s11538-025-01447-9
+PMCID: PMC12084287
+PMID: 40379916 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Conflict of interest: The authors 
+declare no Conflict of interest.
+
+
+32. NPJ Syst Biol Appl. 2025 Jul 1;11(1):67. doi: 10.1038/s41540-025-00545-7.
+
+Temporal analysis of doxorubicin-induced cardiac toxicity and hypertrophy.
+
+Lin YT(#)(1), Lee YJ(#)(1), Tseng WW(1), Chen ZH(2), Hsieh HC(2)(3), Lin KH(2), 
+Su JY(1), Wei AC(4)(5).
+
+Author information:
+(1)Graduate Institute of Biomedical Electronics and Bioinformatics, National 
+Taiwan University, Taipei, Taiwan, ROC.
+(2)Department of Electrical Engineering, National Taiwan University, Taipei, 
+Taiwan, ROC.
+(3)Department of Life Science, National Taiwan University, Taipei, Taiwan, ROC.
+(4)Graduate Institute of Biomedical Electronics and Bioinformatics, National 
+Taiwan University, Taipei, Taiwan, ROC. acwei86@ntu.edu.tw.
+(5)Department of Electrical Engineering, National Taiwan University, Taipei, 
+Taiwan, ROC. acwei86@ntu.edu.tw.
+(#)Contributed equally
+
+Doxorubicin (DOX), although effective in treating cancer, has significant 
+cardiac side effects, which limit its clinical utility. In this study, we 
+collected time-course transcriptomics and metabolomics data from the human 
+cardiomyocyte cell line AC16, which we analyzed along with curated public 
+transcriptomics data on DOX-induced toxicity. We developed a multiomics analysis 
+workflow and a computational toolbox, pipeGEM, to integrate RNA-seq data with 
+metabolic models, enabling the simulation of DOX-induced metabolic perturbations 
+at a sample-specific level. Our results revealed that DOX affected mitochondrial 
+damage and mitochondria-to-nucleus retrograde signaling, potentially 
+contributing to the observed cellular enlargement, senescence and metabolic 
+shift. Cardiac cells that survived DOX treatment presented elevated glycolysis, 
+increased pentose phosphate pathway activity, an altered TCA cycle, and modified 
+glutathione and fatty acid metabolism. These findings provide a comprehensive 
+understanding of DOX-induced toxicity and its implications for cardiac 
+hypertrophy, suggesting potential strategies to mitigate side effects while 
+retaining the anticancer efficacy of DOX.
+
+© 2025. The Author(s).
+
+DOI: 10.1038/s41540-025-00545-7
+PMCID: PMC12219892
+PMID: 40593928 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: The authors declare no 
+competing interests.
+
+
+33. JACS Au. 2024 Sep 17;4(10):3800-3812. doi: 10.1021/jacsau.4c00399. eCollection 
+2024 Oct 28.
+
+Selectivity of Complex Coacervation in Multiprotein Mixtures.
+
+Ahn SY(1), Obermeyer AC(1).
+
+Author information:
+(1)Department of Chemical Engineering, Columbia University, New York, New York 
+10027, United States.
+
+Update of
+    bioRxiv. 2024 Apr 03:2024.04.02.587643. doi: 10.1101/2024.04.02.587643.
+
+Liquid-liquid phase separation of biomolecules is increasingly recognized as 
+being relevant to various cellular functions, and complex coacervation of 
+biomacromolecules, particularly proteins, is emerging as a key mechanism for 
+this phenomenon. Complex coacervation is also being explored as a potential 
+protein purification method due to its potential scalability, aqueous operation, 
+and ability to produce a highly concentrated product. However, to date, most 
+studies of complex coacervation have evaluated the phase behavior of a binary 
+mixture of two oppositely charged macromolecules. Therefore, a comprehensive 
+understanding of the phase behavior of complex biological mixtures is yet to be 
+established. To address this, a panel of engineered proteins was designed to 
+allow for quantitative analysis of the complex coacervation of individual 
+proteins within a multicomponent mixture. The behavior of individual proteins 
+was evaluated using a defined mixture of proteins that mimics the charge profile 
+of the Escherichia coli proteome. To allow for the direct quantification of 
+proteins in each phase, spectrally separated fluorescent proteins were used to 
+construct the protein mixture. From this quantitative analysis, we observed that 
+protein coacervation was synchronized in the mixture, which was distinctive from 
+the behavior when each protein was evaluated in a single-protein system. Subtle 
+differences in biophysical properties between the proteins, such as the 
+ionization of individual charged residues and overall charge density, became 
+noticeable in the mixture, which allowed us to elucidate parameters for protein 
+complex coacervation. With this understanding, we successfully designed methods 
+to enrich a range of proteins of interest from a mixture of proteins.
+
+© 2024 The Authors. Published by American Chemical Society.
+
+DOI: 10.1021/jacsau.4c00399
+PMCID: PMC11522905
+PMID: 39483238
+
+Conflict of interest statement: The authors declare the following competing 
+financial interest(s): A.C.O. is a co-founder of Werewool, a company that is 
+engaged in the development of performance textiles that incorporate engineered 
+proteins. S.Y.A. declares no competing interests.
+
+
+34. Nucleic Acids Res. 2025 Aug 11;53(15):gkaf727. doi: 10.1093/nar/gkaf727.
+
+Chemical crosslinking extends and complements UV crosslinking in analysis of 
+RNA/DNA nucleic acid-protein interaction sites by mass spectrometry.
+
+Welp LM(1)(2), Wulf A(1), Chernev A(1), Horokhovskyi Y(3), Moshkovskii S(1)(2), 
+Dybkov O(1), Neumann P(4), Pašen M(3)(5), Siraj A(6)(7), Raabe M(1), Göthert 
+H(1)(2)(5), Walshe JL(8), Infante DA(9)(10)(5), de A P Schwarzer AC(10)(11), 
+Dickmanns A(4), Johannsson S(4), Schmitzová J(8), Wohlgemuth I(12), Netz 
+E(6)(7), He Y(13), Fritzemeier K(14), Delanghe B(14), Viner R(13), Vos 
+SM(15)(16), Oberbeckmann E(9)(10)(11), Bohnsack KE(10)(11), Bohnsack MT(10)(11), 
+Cramer P(8), Ficner R(4), Kohlbacher O(6)(7)(17), Liepe J(3), Sachsenberg 
+T(6)(7), Urlaub H(1)(2).
+
+Author information:
+(1)Research Group Bioanalytical Mass Spectrometry, Max Planck Institute for 
+Multidisciplinary Sciences, Göttingen 37077, Germany.
+(2)Bioanalytics, Department of Clinical Chemistry, University Medical Center 
+Göttingen, Göttingen 37075, Germany.
+(3)Research Group Quantitative and Systems Biology, Max Planck Institute for 
+Multidisciplinary Sciences, Göttingen 37077, Germany.
+(4)Department of Molecular Structural Biology, Institute of Microbiology and 
+Genetics, GZMB, Georg-August-University Göttingen, Göttingen 37077, Germany.
+(5)Göttingen Graduate Center for Neurosciences, Biophysics, and Molecular 
+Biosciences, University of Göttingen, Göttingen 37075, Germany.
+(6)Institute for Bioinformatics and Medical Informatics, University of Tübingen, 
+Tübingen 72076, Germany.
+(7)Applied Bioinformatics, Dept. for Computer Science, University of Tübingen, 
+Tübingen 72076, Germany.
+(8)Department of Molecular Biology, Max Planck Institute for Multidisciplinary 
+Sciences, Göttingen 37077, Germany.
+(9)Research Group Chromatin Dynamics, Max Planck Institute for Multidisciplinary 
+Sciences, Göttingen 37077, Germany.
+(10)Department of Molecular Biology, University Medical Center Göttingen, 
+Göttingen 37077, Germany.
+(11)Göttingen Center for Molecular Biosciences (GZMB), Georg-August University 
+Göttingen, Göttingen 37077, Germany.
+(12)Department of Physical Biochemistry, Max Planck Institute for 
+Multidisciplinary Sciences, Göttingen 37077, Germany.
+(13)Thermo Fisher Scientific, San Jose, CA 95134, United States.
+(14)Thermo Fisher Scientific, Bremen 28199, Germany.
+(15)Department of Biology, Massachusetts Institute of Technology, Cambridge, 
+MA 02139, United States.
+(16)Howard Hughes Medical Institute, Massachusetts Institute of Technology, 
+Cambridge, MA 02139, United States.
+(17)Institute for Translational Bioinformatics, University Hospital Tübingen, 
+Tübingen 72076, Germany.
+
+Update of
+    bioRxiv. 2025 May 13:2024.08.29.610268. doi: 10.1101/2024.08.29.610268.
+
+Ultraviolet (UV) crosslinking with mass spectrometry (XL-MS) has been 
+established for identifying RNA- and DNA-binding proteins along with their 
+domains and amino acids involved. Here, we explore chemical XL-MS for 
+RNA-protein, DNA-protein, and nucleotide-protein complexes in vitro and in vivo. 
+We introduce a specialized nucleotide-protein-crosslink search engine, NuXL, for 
+robust and fast identification of such crosslinks at amino acid resolution. 
+Chemical XL-MS complements UV XL-MS by generating different crosslink species, 
+increasing crosslinked protein yields in vivo almost four-fold, and thus it 
+expands the structural information accessible via XL-MS. Our workflow 
+facilitates integrative structural modelling of nucleic acid-protein complexes 
+and adds spatial information to the described RNA-binding properties of enzymes, 
+for which crosslinking sites are often observed close to their cofactor-binding 
+domains. In vivo UV and chemical XL-MS data from E. coli cells analysed by NuXL 
+establish a comprehensive nucleic acid-protein crosslink inventory with 
+crosslink sites at amino acid level for >1500 proteins. Our new workflow 
+combined with the dedicated NuXL search engine identified RNA crosslinks that 
+cover most RNA-binding proteins, with DNA and RNA crosslinks detected in 
+transcriptional repressors and activators.
+
+© The Author(s) 2025. Published by Oxford University Press.
+
+DOI: 10.1093/nar/gkaf727
+PMCID: PMC12359043
+PMID: 40823814 [Indexed for MEDLINE]
+
+Conflict of interest statement: T.S. and O.K. are officers in OpenMS Inc., a 
+nonprofit foundation that manages the international coordination of OpenMS 
+development. The rest of authors declare that they have no conflicts of 
+interest.
+
+
+35. Nature. 2024 Sep;633(8029):459-464. doi: 10.1038/s41586-024-07843-w. Epub 2024 
+Aug 21.
+
+Visualizing chaperonin function in situ by cryo-electron tomography.
+
+Wagner J(1)(2)(3)(4), Carvajal AI(1), Bracher A(1), Beck F(5), Wan W(6), Bohn 
+S(5)(7), Körner R(1), Baumeister W(8), Fernandez-Busnadiego R(9)(10)(11), Hartl 
+FU(12).
+
+Author information:
+(1)Department of Cellular Biochemistry, Max Planck Institute of Biochemistry, 
+Martinsried, Germany.
+(2)Research Group Molecular Structural Biology, Max Planck Institute of 
+Biochemistry, Martinsried, Germany.
+(3)Institute of Neuropathology, University Medical Center Göttingen, Göttingen, 
+Germany.
+(4)Cluster of Excellence "Multiscale Bioimaging: from Molecular Machines to 
+Networks of Excitable Cells" (MBExC), University of Göttingen, Göttingen, 
+Germany.
+(5)Research Group CryoEM Technology, Max Planck Institute of Biochemistry, 
+Martinsried, Germany.
+(6)Vanderbilt University Center for Structural Biology, Nashville, TN, USA.
+(7)Institute of Structural Biology, Helmholtz Center Munich, Oberschleissheim, 
+Germany.
+(8)Research Group Molecular Structural Biology, Max Planck Institute of 
+Biochemistry, Martinsried, Germany. baumeist@biochem.mpg.de.
+(9)Institute of Neuropathology, University Medical Center Göttingen, Göttingen, 
+Germany. ruben.fernandezbusnadiego@med.uni-goettingen.de.
+(10)Cluster of Excellence "Multiscale Bioimaging: from Molecular Machines to 
+Networks of Excitable Cells" (MBExC), University of Göttingen, Göttingen, 
+Germany. ruben.fernandezbusnadiego@med.uni-goettingen.de.
+(11)Faculty of Physics, University of Göttingen, Göttingen, Germany. 
+ruben.fernandezbusnadiego@med.uni-goettingen.de.
+(12)Department of Cellular Biochemistry, Max Planck Institute of Biochemistry, 
+Martinsried, Germany. uhartl@biochem.mpg.de.
+
+Chaperonins are large barrel-shaped complexes that mediate ATP-dependent protein 
+folding1-3. The bacterial chaperonin GroEL forms juxtaposed rings that bind 
+unfolded protein and the lid-shaped cofactor GroES at their apertures. In vitro 
+analyses of the chaperonin reaction have shown that substrate protein folds, 
+unimpaired by aggregation, while transiently encapsulated in the GroEL central 
+cavity by GroES4-6. To determine the functional stoichiometry of GroEL, GroES 
+and client protein in situ, here we visualized chaperonin complexes in their 
+natural cellular environment using cryo-electron tomography. We find that, under 
+various growth conditions, around 55-70% of GroEL binds GroES asymmetrically on 
+one ring, with the remainder populating symmetrical complexes. Bound substrate 
+protein is detected on the free ring of the asymmetrical complex, defining the 
+substrate acceptor state. In situ analysis of GroEL-GroES chambers, validated by 
+high-resolution structures obtained in vitro, showed the presence of 
+encapsulated substrate protein in a folded state before release into the 
+cytosol. Based on a comprehensive quantification and conformational analysis of 
+chaperonin complexes, we propose a GroEL-GroES reaction cycle that consists of 
+linked asymmetrical and symmetrical subreactions mediating protein folding. Our 
+findings illuminate the native conformational and functional chaperonin cycle 
+directly within cells.
+
+© 2024. The Author(s).
+
+DOI: 10.1038/s41586-024-07843-w
+PMCID: PMC11390479
+PMID: 39169181 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing interests.
+
+
+36. MAbs. 2025 Dec;17(1):2492236. doi: 10.1080/19420862.2025.2492236. Epub 2025 Apr 
+13.
+
+The physiological limits of bispecific monoclonal antibody tissue targeting 
+specificity.
+
+Sepp A(1), Stader F(1), Derbalah A(1), Liu C(1), Zyla A(1), Gardner I(1), Jamei 
+M(1).
+
+Author information:
+(1)Certara Predictive Technologies division, Certara UK Ltd, Sheffield, UK.
+
+Bispecific monoclonal antibodies (bsmAbs) are expected to provide targeted drug 
+delivery that overcomes the dose-limiting toxicities often accompanying 
+antibody-drug conjugates (ADC) in clinical practice. Much attention has been 
+paid in the past to target selection, mAb affinities and the payload linker 
+design, but challenges remain. Here, we demonstrate, by physiologically based 
+pharmacokinetic (PBPK) in silico modeling and simulation, that the 
+tissue-targeting accuracy of mono- and bispecific antibody therapeutics is 
+substantially limited by normal physiological characteristics like organ 
+volumes, blood flow rates, lymphatic circulation, and rates of extravasation. 
+Only a small fraction of blood flows through solid tumor, where the 
+diffusion-driven extravasation is relatively slow compared with many other 
+organs. EGFR and HER2 are used as model antigens based on their experimentally 
+measured tissue and tumor expression levels, but the approach is generic and can 
+account for the cellular expression variation of targets. The model confirms 
+experimental observations that only about 0.1-1% of the dosed mAb is likely to 
+reach the tumor, while the rest ends up in healthy tissues due to 
+target-mediated internalization and nonspecific uptake. The model suggests that 
+the dual-positive tumor cell targeting specificity with bispecific antibodies is 
+likely to be higher at lower drug concentrations and doses. However, this can be 
+offset by elevated drug exposure in more accessible healthy tissues, primarily 
+endothelium. The balance of exposure can be shifted toward tumor cells by using 
+higher doses, albeit at the expense of more extensive target engagement 
+elsewhere in the body, suggesting the need to adapt the toxicity of the payload 
+if ADCs are considered. We suggest that PBPK modeling can guide and support 
+biologics and bsmAb development, from target evaluation and drug optimization to 
+therapeutic dose selection.
+
+DOI: 10.1080/19420862.2025.2492236
+PMCID: PMC12005452
+PMID: 40223272 [Indexed for MEDLINE]
+
+Conflict of interest statement: No potential conflict of interest was reported 
+by the author(s).
+
+
+37. bioRxiv [Preprint]. 2025 May 10:2023.02.01.526552. doi: 
+10.1101/2023.02.01.526552.
+
+The effectiveness of selection in a species affects the direction of amino acid 
+frequency evolution.
+
+McShea H(1)(2), Wheeler AL(3), Goodman P(4), Weibel C(5)(6)(7), Wehbi S(3), 
+James JE(8)(9), Huttley G(10), Masel J(8).
+
+Author information:
+(1)Department of Earth System Science, Stanford University.
+(2)Department of Microbiology & Immunology, University of California, San 
+Francisco.
+(3)Graduate Interdisciplinary Program in Genetics, University of Arizona.
+(4)Statistics & Data Science, University of Arizona.
+(5)Department of Mathematics, University of Arizona.
+(6)Department of Physics, University of Arizona.
+(7)Department of Applied Physics, Stanford University.
+(8)Department of Ecology & Evolutionary Biology, University of Arizona.
+(9)Department of Cell and Molecular Biology, SciLifeLab, Uppsala University.
+(10)Research School of Biology, The Australian National University.
+
+Nearly neutral theory predicts that species with higher effective population 
+size (Ne) are better at purging slightly deleterious mutations. We compare 
+evolution in high- Ne vs. low- Ne vertebrates to reveal subtle selective 
+preferences among amino acids. We take three complementary approaches. First, we 
+fit non-stationary substitution models using maximum likelihood, comparing the 
+high- Ne clade of rodents and lagomorphs to its low- Ne sister clade of primates 
+and colugos. Second, we compared evolutionary outcomes across a wider range of 
+vertebrates, via correlations between amino acid frequencies and Ne . Third, we 
+dissected which amino acids substitutions occurred in human, chimpanzee, mouse, 
+and rat, as scored by parsimony - this also enabled comparison to a historical 
+paper. All methods agree on amino acid preference under more effective 
+selection. Preferred amino acids are less costly to synthesize and use GC-rich 
+codons, which are hard to maintain under AT-biased mutation. These factors 
+explain 85% of the variance in amino acid preferences. Parsimony-induced bias in 
+the historical study produces an apparent reduction in structural disorder, 
+perhaps driven by slightly deleterious substitutions in rapidly evolving 
+regions. Within highly exchangeable pairs of amino acids, arginine is strongly 
+preferred over lysine, aspartate over glutamate, and valine over isoleucine, 
+consistent with more effective selection preferring a marginally larger free 
+energy of folding. Two of these preferences (K→R and I→V), but not a third (E→D) 
+match differences between thermophiles and mesophilic relatives. These results 
+reveal the biophysical consequences of mutation-selection-drift balance, and 
+demonstrate the utility of nearly neutral theory for understanding protein 
+evolution.
+
+DOI: 10.1101/2023.02.01.526552
+PMCID: PMC11212923
+PMID: 38948853
+
+Conflict of interest statement: Conflict of interest The authors declare no 
+conflict of interest.
+
+
+38. PLoS Comput Biol. 2025 Oct 13;21(10):e1013564. doi: 
+10.1371/journal.pcbi.1013564. eCollection 2025 Oct.
+
+A compact model of Escherichia coli core and biosynthetic metabolism.
+
+Corrao M(1), He H(2), Liebermeister W(3), Noor E(4), Bar-Even A(5).
+
+Author information:
+(1)Department of Engineering Science, University of Oxford, Oxford, United 
+Kingdom.
+(2)Department of Biochemistry and Synthetic Metabolism, Max Planck Institute for 
+Terrestrial Microbiology, Marburg, Germany.
+(3)Université Paris-Saclay, INRAE, MaIAGE, Jouy-en-Josas, France.
+(4)Department of Plant and Environmental Sciences, Weizmann Institute of 
+Science, Rehovot, Israel.
+(5)Group of Systems and Synthetic Metabolism, Max Planck Institute of Molecular 
+Plant Physiology, Potsdam-Golm, Germany.
+
+Metabolic models condense biochemical knowledge about organisms in a structured 
+and standardised way. As large-scale network reconstructions are readily 
+available for many organisms, genome-scale models are being widely used among 
+modellers and engineers. However, these large models can be difficult to analyse 
+and visualise, and occasionally generate predictions that are hard to interpret 
+or even biologically unrealistic. Of the thousands of enzymatic reactions in a 
+typical bacterial metabolism, only a few hundred form the metabolic pathways 
+essential to produce energy carriers and biosynthetic precursors. These pathways 
+carry relatively high flux, are central to maintaining and reproducing the cell, 
+and provide precursors and energy to engineered metabolic pathways. Focusing on 
+these central metabolic subsystems, we present iCH360, a manually curated 
+medium-scale model of energy and biosynthesis metabolism for the well-studied 
+bacterium Escherichia coli K-12 MG1655. The model is a sub-network of the most 
+recent genome-scale reconstruction, iML1515, and comes with an updated layer of 
+database annotations and a range of metabolic maps for visualisation. We 
+enriched the stoichiometric network with extensive biological information and 
+quantitative data, including thermodynamic and kinetic constants, enhancing the 
+scope and applicability of the model. In addition, we assess the properties of 
+this model in comparison to its genome-scale parent and demonstrate the use of 
+the network and supporting data in various scenarios, including 
+enzyme-constrained flux balance analysis, elementary flux mode analysis, and 
+thermodynamic analysis. Overall, this model holds the potential to become a 
+reference medium-scale metabolic model for E. coli.
+
+Copyright: © 2025 Corrao et al. This is an open access article distributed under 
+the terms of the Creative Commons Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium, provided the 
+original author and source are credited.
+
+DOI: 10.1371/journal.pcbi.1013564
+PMCID: PMC12533975
+PMID: 41082574 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors have declared that no competing 
+interests exist.
+
+
+39. J Proteome Res. 2025 Jan 3;24(1):171-188. doi: 10.1021/acs.jproteome.4c00566. 
+Epub 2024 Nov 26.
+
+Dynamic Cellular Proteome Remodeling during SARS-CoV-2 Infection. Identification 
+of Plasma Protein Readouts.
+
+Dos Santos FM(1), Vindel-Alfageme J(1), Ciordia S(1), Castro V(2), Orera I(3), 
+Garaigorta U(2), Gastaminza P(2), Corrales F(1).
+
+Author information:
+(1)Functional Proteomics Laboratory, National Center for Biotechnology 
+(CNB-CSIC), Darwin 3, Madrid 28049, Spain.
+(2)Department of Molecular and Cell Biology, National Center for Biotechnology 
+(CNB-CSIC), Darwin 3, Madrid 28049, Spain.
+(3)Proteomics Research Core Facility, Instituto Aragonés de Ciencias de la Salud 
+(IACS), Zaragoza 50009, Spain.
+
+The outbreak of COVID-19, led to an ongoing pandemic with devastating 
+consequences for the global economy and human health. With the global spread of 
+SARS-CoV-2, multidisciplinary initiatives were launched to explore new 
+diagnostic, therapeutic, and vaccination strategies. From this perspective, 
+proteomics could help to understand the mechanisms associated with SARS-CoV-2 
+infection and to identify new therapeutic options. A TMT-based quantitative 
+proteomics and phosphoproteomics analysis was performed to study the proteome 
+remodeling of human lung alveolar cells expressing human ACE2 (A549-ACE2) after 
+infection with SARS-CoV-2. Detectability and the prognostic value of selected 
+proteins was analyzed by targeted PRM. A total of 6802 proteins and 6428 
+phospho-sites were identified in A549-ACE2 cells after infection with 
+SARS-CoV-2. The differential proteins here identified revealed that A549-ACE2 
+cells undergo a time-dependent regulation of essential processes, delineating 
+the precise intervention of the cellular machinery by the viral proteins. From 
+this mechanistic background and by applying machine learning modeling, 29 
+differential proteins were selected and detected in the serum of COVID-19 
+patients, 14 of which showed promising prognostic capacity. Targeting these 
+proteins and the protein kinases responsible for the reported phosphorylation 
+changes may provide efficient alternative strategies for the clinical management 
+of COVID-19.
+
+DOI: 10.1021/acs.jproteome.4c00566
+PMCID: PMC11705369
+PMID: 39593238 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare no competing financial 
+interest.
+
+
+40. Synth Syst Biotechnol. 2024 Dec 11;10(2):337-345. doi: 
+10.1016/j.synbio.2024.12.002. eCollection 2025 Jun.
+
+Modeling coding sequence design for virus-based expression in tobacco.
+
+Burghardt M(1), Tuller T(1)(2)(3).
+
+Author information:
+(1)Department of Biomedical Engineering, The Iby and Aladar Fleischman Faculty 
+of Engineering, Tel Aviv, Israel.
+(2)The Segol School of Neuroscience, Tel-Aviv University, Tel Aviv, Israel.
+(3)Center for Physics and Chemistry of Living Systems, Israel.
+
+Transient expression in Tobacco is a popular way to produce recombinant proteins 
+in plants. The design of various expression vectors, delivered into the plant by 
+Agrobacterium, has enabled high production levels of some proteins. To further 
+enhance expression, researchers often adapt the coding sequence of heterologous 
+genes to the host, but this strategy has produced mixed results in Tobacco. To 
+study the effects of different sequence features on protein yield, we compile a 
+dataset of the yields and coding sequences of previously published expression 
+studies of more than 200 coding sequences. We evaluate various established gene 
+expression models on a subset of the expression studies. We find that use of 
+tobacco codons is only moderately predictive of protein yield as informative 
+sequence features likely extend over multiple codons. Additionally, we show that 
+codon usage of organisms that use tobacco as a host for expression of their 
+proteins in a similar way as the synthetic system, like viruses and 
+agrobacteria, can be used to predict heterologous expression. Other predictive 
+features are related to tRNA supply and demand, the inclusion of a translational 
+ramp of codons with lower adaptation to the tRNA pool at the beginning of the 
+coding region, and the amino acid composition of the recombinant protein. A 
+model based on all the features achieved a correlation of 0.57 with protein 
+yield. We believe that our study provides a practical guideline for coding 
+sequence design for efficient expression in tobacco.
+
+© 2024 The Authors.
+
+DOI: 10.1016/j.synbio.2024.12.002
+PMCID: PMC11718241
+PMID: 39802156
+
+Conflict of interest statement: The authors do not have any conflict of 
+interest.
+
+
+41. PNAS Nexus. 2025 Jan 16;4(1):pgaf008. doi: 10.1093/pnasnexus/pgaf008. 
+eCollection 2025 Jan.
+
+Disentangling protein metabolic costs in human cells and tissues.
+
+Chagoyen M(1), Poyatos JF(2).
+
+Author information:
+(1)Computational Systems Biology Group (CNB-CSIC), Madrid E-28049, Spain.
+(2)Logic of Genomic Systems Laboratory (CNB-CSIC), Madrid E-28049, Spain.
+
+While more data are becoming available on gene activity at different levels of 
+biological organization, our understanding of the underlying biology remains 
+incomplete. Here, we introduce a metabolic efficiency framework that considers 
+highly expressed proteins (HEPs), their length, and biosynthetic costs in terms 
+of the amino acids (AAs) they contain to address the observed balance of 
+expression costs in cells, tissues, and cancer transformation. Notably, the 
+combined set of HEPs in either cells or tissues shows an abundance of large and 
+costly proteins, yet tissues compensate this with short HEPs comprised of 
+economical AAs, indicating a stronger tendency toward mitigating costs. We 
+additionally observe that short proteins are prevalent HEPs across individual 
+cells and tissues, whereas long ones are more specific. Furthermore, the precise 
+proportion of short, long, economical, or costly HEP classes indicates that 
+particular cell types and tissues align more closely with the metabolic 
+efficiency model, with some tissues displaying behavior akin to their 
+constituent cells. Finally, tumors typically increase the production of short 
+and low-cost HEPs compared with matched normal tissues, while genes that 
+decrease their high expression levels in tumors often tend to be associated with 
+high costs. Overall, the metabolic efficiency framework serves as a useful 
+simplifying model for interpreting genome-wide expression data across scales.
+
+© The Author(s) 2025. Published by Oxford University Press on behalf of National 
+Academy of Sciences.
+
+DOI: 10.1093/pnasnexus/pgaf008
+PMCID: PMC11759310
+PMID: 39867669
+
+
+42. bioRxiv [Preprint]. 2024 Oct 22:2024.10.18.619054. doi: 
+10.1101/2024.10.18.619054.
+
+A genome-to-proteome atlas charts natural variants controlling proteome 
+diversity and forecasts their fitness effects.
+
+Jakobson CM(1), Hartl J(2)(3), Trébulle P(4), Mülleder M(5), Jarosz DF(1)(6), 
+Ralser M(2)(3)(7).
+
+Author information:
+(1)Depasssrtment of Chemical and Systems Biology, Stanford University School of 
+Medicine, Stanford, CA, USA.
+(2)Berlin Institute of Health at Charité-Universitätsmedizin Berlin, Berlin, 
+Germany.
+(3)Department of Biochemistry, Charité-Universitätsmedizin Berlin, Berlin, 
+Germany.
+(4)Centre for Human Genetics, Nuffield Department of Medicine, University of 
+Oxford, Oxford, UK.
+(5)Core Facility High-Throughput Mass Spectrometry, Charité-Universitätsmedizin 
+Berlin, Berlin, Germany.
+(6)Department of Developmental Biology, Stanford University School of Medicine, 
+Stanford, CA, USA.
+(7)Max Planck Institute for Molecular Genetics, Berlin, Germany.
+
+Despite abundant genomic and phenotypic data across individuals and 
+environments, the functional impact of most mutations on phenotype remains 
+unclear. Here, we bridge this gap by linking genome to proteome in 800 meiotic 
+progeny from an intercross between two closely related Saccharomyces cerevisiae 
+isolates adapted to distinct niches. Modest genetic distance between the parents 
+generated remarkable proteomic diversity that was amplified in the progeny and 
+captured by 6,476 genotype-protein associations, over 1,600 of which we resolved 
+to single variants. Proteomic adaptation emerged through the combined action of 
+numerous cis- and trans-regulatory mutations, a regulatory architecture that was 
+conserved across the species. Notably, trans-regulatory variants often arose in 
+proteins not traditionally associated with gene regulation, such as enzymes. 
+Moreover, the proteomic consequences of mutations predicted fitness under 
+various stresses. Our study demonstrates that the collective action of natural 
+genetic variants drives dramatic proteome diversification, with molecular 
+consequences that forecast phenotypic outcomes.
+
+DOI: 10.1101/2024.10.18.619054
+PMCID: PMC11526991
+PMID: 39484408
+
+Conflict of interest statement: Declaration of Interests M. Ralser is founder 
+and shareholder of Eliptica Ltd. The other authors declare no competing 
+interests.
+
+
+43. bioRxiv [Preprint]. 2025 Jul 24:2025.07.23.666395. doi: 
+10.1101/2025.07.23.666395.
+
+Recognition of small Tim chaperones by the mitochondrial Yme1 protease.
+
+Quispe-Carbajal M(1), Todd L(1), Glynn SE(1).
+
+Author information:
+(1)Department of Biochemistry and Cell Biology, Stony Brook University, Stony 
+Brook, NY, USA.
+
+Yme1 is a conserved ATP-dependent protease that maintains mitochondrial function 
+by degrading proteins in the intermembrane space. However, how Yme1 selects 
+substrates within the crowded mitochondrial environment is poorly understood. An 
+established substrate of Yme1 in yeast is the Tim10 subunit of the small 
+Tim9-Tim10 protein chaperone complex, which is degraded following disruption of 
+the subunit's internal disulfide bonds. Here, we use biochemical and biophysical 
+approaches to examine initial substrate binding and degradation of small Tim 
+proteins by Yme1 and shed light on the molecular mechanism of substrate 
+selection. We show that Yme1 preferentially binds Tim10 over other small Tim 
+proteins by forming a high-affinity interaction with the subunit irrespective of 
+the presence of its disulfide bonds. This interaction is primarily mediated by 
+Tim10's flexible N-terminal 'tentacle', though substrate unfolding exposes 
+additional contact sites that enhance engagement. Notably, the human ortholog 
+TIMM13 is also recognized by yeast Yme1, suggesting conservation of recognition 
+strategy across species. Yme1 also binds to the assembled Tim9-Tim10 chaperone 
+but independently of the Tim10 N-terminal tentacle. These findings suggest that 
+Yme1 surveils the folding state of Tim10 throughout its functional lifecycle - 
+both as a folded monomer and as a subunit of the functional chaperone complex - 
+but only commits to degradation after disruption of its disulfide bonds.
+
+DOI: 10.1101/2025.07.23.666395
+PMCID: PMC12330661
+PMID: 40777366
+
+Conflict of interest statement: Conflict of Interest The authors declare that 
+they have no conflicts of interest with the contents of this article.
+
+
+44. MAbs. 2024 Jan-Dec;16(1):2324485. doi: 10.1080/19420862.2024.2324485. Epub 2024 
+Mar 4.
+
+Application of quantitative protein mass spectrometric data in the early 
+predictive analysis of membrane-bound target engagement by monoclonal 
+antibodies.
+
+Sepp A(1), Muliaditan M(2).
+
+Author information:
+(1)Simcyp Division, Certara UK Ltd, Sheffield, UK.
+(2)Leiden Experts on Advanced Pharmacokinetics and Pharmacodynamics (LAP&P), 
+Leiden, The Netherlands.
+
+Model-informed drug discovery advocates the use of mathematical modeling and 
+simulation for improved efficacy in drug discovery. In the case of monoclonal 
+antibodies (mAbs) against cell membrane antigens, this requires quantitative 
+insight into the target tissue concentration levels. Protein mass spectrometry 
+data are often available but the values are expressed in relative, rather than 
+in molar concentration units that are easier to incorporate into pharmacokinetic 
+models. Here, we present an empirical correlation that converts the parts per 
+million (ppm) concentrations in the PaxDb database to their molar equivalents 
+that are more suitable for pharmacokinetic modeling. We evaluate the insight 
+afforded to target tissue distribution by analyzing the likely tumor-targeting 
+accuracy of mAbs recognizing either epidermal growth factor receptor or its 
+homolog HER2. Surprisingly, the predicted tissue concentrations of both these 
+targets exceed the Kd values of their respective therapeutic mAbs. 
+Physiologically based pharmacokinetic (PBPK) modeling indicates that in these 
+conditions only about 0.05% of the dosed mAb is likely to reach the solid tumor 
+target cells. The rest of the dose is eliminated in healthy tissues via both 
+nonspecific and target-mediated processes. The presented approach allows 
+evaluation of the interplay between the target expression level in different 
+tissues that determines the overall pharmacokinetic properties of the drug and 
+the fraction that reaches the cells of interest. This methodology can help to 
+evaluate the efficacy and safety properties of novel drugs, especially if the 
+off-target cell degradation has cytotoxic outcomes, as in the case of 
+antibody-drug conjugates.
+
+DOI: 10.1080/19420862.2024.2324485
+PMCID: PMC10936618
+PMID: 38700511 [Indexed for MEDLINE]
+
+Conflict of interest statement: No potential conflict of interest was reported 
+by the author(s).
+
+
+45. Proc Natl Acad Sci U S A. 2024 Aug 27;121(35):e2322755121. doi: 
+10.1073/pnas.2322755121. Epub 2024 Aug 20.
+
+Rag-Ragulator is the central organizer of the physical architecture of the 
+mTORC1 nutrient-sensing pathway.
+
+Valenstein ML(#)(1)(2)(3)(4), Lalgudi PV(#)(2)(3), Gu X(#)(2)(3)(4), Kedir 
+JF(2)(3)(4), Taylor MS(4)(5)(6)(7)(8), Chivukula RR(1)(4)(9)(10)(11), Sabatini 
+DM(12).
+
+Author information:
+(1)Department of Medicine, Massachusetts General Hospital, Boston, MA 02114.
+(2)Whitehead Institute for Biomedical Research, Cambridge, MA 02142.
+(3)Department of Biology, Massachusetts Institute of Technology, Cambridge, MA 
+02139.
+(4)Harvard Medical School, Boston, MA 02115.
+(5)Department of Pathology, Massachusetts General Hospital, Boston, MA 02114.
+(6)Department of Pathology and Laboratory Medicine, Brown University, 
+Providence, RI 02903.
+(7)Brown Center on the Biology of Aging, Brown University, Providence, RI 02903.
+(8)Legorreta Cancer Center, Brown University, Providence, RI 02903.
+(9)Center for Genomic Medicine, Massachusetts General Hospital, Boston, MA 
+02114.
+(10)Department of Surgery, Massachusetts General Hospital, Boston, MA 02114.
+(11)Broad Institute of Harvard and the Massachusetts Institute of Technology, 
+Cambridge, MA 02142.
+(12)Institute of Organic Chemistry and Biochemistry of the Czech Academy of 
+Sciences, Prague 166 10, Czech Republic.
+(#)Contributed equally
+
+The mechanistic target of rapamycin complex 1 (mTORC1) pathway regulates cell 
+growth and metabolism in response to many environmental cues, including 
+nutrients. Amino acids signal to mTORC1 by modulating the guanine nucleotide 
+loading states of the heterodimeric Rag GTPases, which bind and recruit mTORC1 
+to the lysosomal surface, its site of activation. The Rag GTPases are tethered 
+to the lysosome by the Ragulator complex and regulated by the GATOR1, GATOR2, 
+and KICSTOR multiprotein complexes that localize to the lysosomal surface 
+through an unknown mechanism(s). Here, we show that mTORC1 is completely 
+insensitive to amino acids in cells lacking the Rag GTPases or the Ragulator 
+component p18. Moreover, not only are the Rag GTPases and Ragulator required for 
+amino acids to regulate mTORC1, they are also essential for the lysosomal 
+recruitment of the GATOR1, GATOR2, and KICSTOR complexes, which stably associate 
+and traffic to the lysosome as the "GATOR" supercomplex. The nucleotide state of 
+RagA/B controls the lysosomal association of GATOR, in a fashion competitively 
+antagonized by the N terminus of the amino acid transporter SLC38A9. Targeting 
+of Ragulator to the surface of mitochondria is sufficient to relocalize the Rags 
+and GATOR to this organelle, but not to enable the nutrient-regulated 
+recruitment of mTORC1 to mitochondria. Thus, our results reveal that the 
+Rag-Ragulator complex is the central organizer of the physical architecture of 
+the mTORC1 nutrient-sensing pathway and underscore that mTORC1 activation 
+requires signal transduction on the lysosomal surface.
+
+DOI: 10.1073/pnas.2322755121
+PMCID: PMC11363303
+PMID: 39163330 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests statement:The authors 
+declare no competing interest.
+
+
+46. J Proteome Res. 2025 Jun 6;24(6):2741-2756. doi: 10.1021/acs.jproteome.4c01039. 
+Epub 2025 Apr 30.
+
+Mapping the Interactome of OSCC Prognostic-Associated Proteins NDRG1 and PGK1 
+Through Proximity Labeling Using TurboID.
+
+Câmara GA(1), Yokoo S(1), Granato DC(1), Simabuco FM(2), Ribeiro-Filho HV(1), 
+Melo RM(1), Pauletti BA(1), Nascimento Filho EG(1), Domingues RR(1), Paes Leme 
+AF(1).
+
+Author information:
+(1)Brazilian Biosciences National Laboratory - LNBio, Brazilian Center for 
+Research in Energy and Materials - CNPEM, Campinas, São Paulo 13083-100, Brazil.
+(2)Department of Biochemistry, Federal University of São Paulo (UNIFESP), São 
+Paulo 04021-001, Brazil.
+
+Oral squamous cell carcinoma (OSCC) is a prevalent type of head and neck cancer, 
+comprising over 90% of all oral malignancies worldwide. The identification of 
+diagnostic and prognostic markers for OSCC is crucial for improving patient 
+outcomes, as early detection and treatment are critical for the successful 
+management of this disease. Previously, we demonstrated that N-myc 
+downstream-regulated gene 1 (NDRG1) and phosphoglycerate kinase 1 (PGK1) are 
+prognostic markers for OSCC; however, their role in OSCC development remains 
+unclear. To investigate this, we used TurboID-based proximity labeling to 
+identify the interactomes of NDRG1 and PGK1 in HEK293 cells. Herein, protein 
+abundance patterns from three time points were used for clustering 364 proteins 
+with a "fast" or "slow" response to biotin. Of these, 65 proteins were also 
+identified in neoplastic islands of OSCC patients from our previous study, and 
+28 of these proteins have their gene expression associated with prognostic 
+features, including death, metastasis, and relapse. PRM-MS enabled the 
+quantification of 17 of these proteins, providing further evidence of their 
+presence in the OSCC prognostic interactome. Finally, we characterized a 
+prognostic-associated interactome composed of 28 proteins, which enabled the 
+prioritization of candidates that can be further explored in OSCC progression. 
+The mass spectrometry data generated in this study have been deposited in 
+ProteomeXchange with the data set identifier PXD048046.
+
+DOI: 10.1021/acs.jproteome.4c01039
+PMCID: PMC12151068
+PMID: 40304068 [Indexed for MEDLINE]
+
+
+47. Sci Rep. 2025 Jul 8;15(1):24480. doi: 10.1038/s41598-025-07934-2.
+
+Pex3 promotes formation of peroxisome-peroxisome and peroxisome-lipid droplet 
+contact sites.
+
+Amado L(1), Percifull L(2)(3), Franzkoch R(4)(5)(6), Flatemersch V(1), 
+Brüggemann EJ(7), Psathaki OE(4)(5), Schuldiner M(8), Bohnert M(2)(3), Bülow 
+MH(7), González Montoro A(9)(10).
+
+Author information:
+(1)Cellular Communication Laboratory, Department of Biology/Chemistry, Osnabrück 
+University, Barbarastrasse 13, 49076, Osnabrück, Germany.
+(2)Institute of Cell Dynamics and Imaging, University of Münster, 
+Von-Esmarch-Str. 56, 48149, Münster, Germany.
+(3)Cells in Motion Interfaculty Centre (CiM), University of Münster, Münster, 
+Germany.
+(4)iBiOs-Integrated Bioimaging Facility, University of Osnabrück, Osnabrück, 
+Germany.
+(5)Center of Cellular Nanoanalytic Osnabrück (CellNanOs), Barbarastrasse 11, 
+49076, Osnabrück, Germany.
+(6)Division of Microbiology Department of Biology/Chemistry, Osnabrück 
+University, Barbarastrasse 11, 49076, Osnabrück, Germany.
+(7)Group Membrane Contact Sites, CURE3D Research Lab, Clinic for Cardiovascular 
+Surgery, University Hospital Düsseldorf, Moorenstraße 5, 40225, Düsseldorf, 
+Germany.
+(8)Department of Molecular Genetics, The Weizmann Institute of Science, 7610001, 
+Rehovot, Israel.
+(9)Cellular Communication Laboratory, Department of Biology/Chemistry, Osnabrück 
+University, Barbarastrasse 13, 49076, Osnabrück, Germany. 
+ayelen.gonzalez.montoro@uos.de.
+(10)Center of Cellular Nanoanalytic Osnabrück (CellNanOs), Barbarastrasse 11, 
+49076, Osnabrück, Germany. ayelen.gonzalez.montoro@uos.de.
+
+Peroxisomes are ubiquitous organelles that mediate central metabolic functions, 
+such as fatty acid β-oxidation, as well as diverse tissue- and organism-specific 
+processes. Membrane contact sites, regions of close apposition with other 
+organelles for direct communication, are central to several aspects of their 
+life cycle. Pex3 is a conserved multifunctional peroxisomal transmembrane 
+protein that is involved in the insertion of peroxisomal membrane proteins, in 
+pexophagy, and in the formation of membrane contact sites. Here, we show that 
+high Pex3 levels in Saccharomyces cerevisiae induce the formation of peroxisome 
+clusters surrounded by lipid droplets, mediated by peroxisome-peroxisome and 
+peroxisome-lipid droplet contact sites. This clustering occurs independently of 
+Pex3 partners in other processes Pex19, Inp1, and Atg36. The cytosolic domain of 
+Pex3 binds peroxisomes, suggesting a direct role in homotypic contact site 
+formation. Lipid droplet-peroxisome contact sites require the lipid 
+droplet-localized triacylglycerol lipase Tgl4, which is enriched at this 
+interface along with other lipases. Pex3 overexpression in Drosophila 
+melanogaster similarly alters peroxisome and lipid droplet morphology and 
+promotes contact site formation. Together, our results offer novel molecular 
+insights into homotypic peroxisome contact sites and peroxisome-lipid droplet 
+contact sites across species.
+
+© 2025. The Author(s).
+
+DOI: 10.1038/s41598-025-07934-2
+PMCID: PMC12238565
+PMID: 40628847 [Indexed for MEDLINE]
+
+Conflict of interest statement: Declarations. Competing interests: The authors 
+declare no competing interests.
+
+
+48. Nat Commun. 2025 Jul 10;16(1):6375. doi: 10.1038/s41467-025-61749-3.
+
+HP1 loses its chromatin clustering and phase separation function across 
+evolution.
+
+Bensaha S(#)(1), Lewandowska D(#)(1), Muzzopappa F(1), Hutin S(2), Tully MD(3), 
+Anfossi M(1), Cammas FM(4)(5), Normand C(1), Erdel F(6).
+
+Author information:
+(1)MCD, Center for Integrative Biology (CBI), University of Toulouse, CNRS, 
+Toulouse, France.
+(2)Cell & Plant Physiology Laboratory, University Grenoble Alpes, CNRS, CEA, 
+INRAE, IRIG, Grenoble, France.
+(3)European Synchrotron Radiation Facility, Structural Biology Group, Grenoble, 
+France.
+(4)Montpellier Cancer Research Institute (IRCM), University of Montpellier, 
+INSERM, ICM, CNRS, Montpellier, France.
+(5)Institute of Human Genetics (IGH), University of Montpellier, CNRS, 
+Montpellier, France.
+(6)MCD, Center for Integrative Biology (CBI), University of Toulouse, CNRS, 
+Toulouse, France. fabian.erdel@cnrs.fr.
+(#)Contributed equally
+
+Heterochromatin protein 1 (HP1) is a multifunctional chromatin-associated 
+protein conserved from fission yeast to mammals. HP1 has been suggested to drive 
+heterochromatin formation via phase separation. However, there is seemingly 
+conflicting evidence about HP1 phase-separating in different systems or not. 
+Here, we assess the phase separation behavior of HP1 from fission yeast, fruit 
+fly and mouse in vitro and in mammalian cells side-by-side. We find that HP1 
+from fission yeast and fly can undergo liquid-liquid phase separation and induce 
+heterochromatin coalescence in mouse cells, in stark contrast to HP1 from mouse. 
+Induced heterochromatin coalescence has only mild effects on gene expression. We 
+link the decreasing phase separation propensity of HP1 homologs to their 
+decreasing intrinsic disorder and their increasing sensitivity to HP1 paralogs 
+antagonizing phase separation. Our work elucidates the relationship between 
+phase separation, nuclear organization and gene expression, and highlights the 
+evolutionary dimension of protein phase separation control.
+
+© 2025. The Author(s).
+
+DOI: 10.1038/s41467-025-61749-3
+PMCID: PMC12246093
+PMID: 40640210 [Indexed for MEDLINE]
+
+Conflict of interest statement: Competing interests: The authors declare no 
+competing interests.
+
+
+49. JCI Insight. 2025 Aug 7;10(18):e184309. doi: 10.1172/jci.insight.184309. 
+eCollection 2025 Sep 23.
+
+A ratiometric catalog of protein isoform shifts in the cardiac fetal gene 
+program.
+
+Han Y(1)(2), Binti S(1)(2), Wennersten SA(1)(2), Pandi B(1)(2), Ng DC(1)(2), Lau 
+E(1)(3), Lam MP(1)(2)(3).
+
+Author information:
+(1)Department of Medicine.
+(2)Consortium for Fibrosis Research and Translation, and.
+(3)Department of Biochemistry and Molecular Genetics, University of Colorado 
+School of Medicine, Aurora, Colorado, USA.
+
+Update of
+    bioRxiv. 2025 May 31:2024.04.09.588716. doi: 10.1101/2024.04.09.588716.
+
+Pathological cardiac remodeling is associated with the reactivation of fetal 
+genes, yet the extent of the heart's fetal gene program and its impact on 
+proteome compositions remain incompletely understood. Here, using a 
+proteome-wide protein ratio quantification strategy with mass spectrometry, we 
+identified pervasive isoform usage shifts in fetal and postnatal mouse hearts, 
+involving 145 pairs of highly homologous paralogs and alternative 
+splicing-derived isoform proteins. Proteome-wide ratio comparisons readily 
+rediscovered hallmark fetal gene signatures in muscle contraction and glucose 
+metabolism pathways, while revealing what we believe to be previously 
+undescribed isoform usage in mitochondrial and gene-expression-regulating 
+proteins, including PPA1/PPA2, ANT1/ANT2, and PCBP1/PCBP2 switches. Paralogs 
+with differential fetal usage tend to be evolutionarily recent, consistent with 
+functional diversification. Alternative splicing adds another rich source of 
+fetal isoform usage differences, involving PKM M1/M2, GLS1 KGA/GAC, PDLIM5 
+long/short, and other spliceoforms. When comparing absolute protein proportions, 
+we observed a partial reversion toward fetal gene usage in pathological hearts. 
+In summary, we present a ratiometric catalog of paralogs and spliceoform pairs 
+in the cardiac fetal gene program. More generally, the results demonstrate the 
+potential of applying the proteome-wide ratio test concept to discover new 
+regulatory modalities beyond differential gene expression.
+
+DOI: 10.1172/jci.insight.184309
+PMCID: PMC12487847
+PMID: 40773290 [Indexed for MEDLINE]
